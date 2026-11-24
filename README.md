@@ -1,4 +1,4 @@
-# Orienta’Sion — première ébauche
+# Orienta'Sion by CNEF
 
 Application web statique en français pour explorer les études en Israël après le bac, destinée aux futurs étudiants francophones et à leurs parents.
 
@@ -37,6 +37,7 @@ Le partenariat, le traitement des demandes et la disponibilité d’étudiants s
 
 - `dist/index.html` : document et dialogues accessibles.
 - `dist/styles.css` : interface responsive.
+- `dist/brand.css` : charte graphique et code couleur (universités en bleu, mihlalot académiques en orange, formation des enseignants en vert).
 - `dist/content.js` : établissements, cursus, préparations, glossaire et FAQ.
 - `dist/app.js` : navigation, recherche et interactions côté navigateur.
 - `.openai/hosting.json` : identité du Site privé et configuration d’hébergement.
@@ -46,3 +47,7 @@ Favoris, comparaison, progression et budget sont conservés uniquement dans le s
 ## Vérification de l’ébauche
 
 Les fichiers JavaScript sont contrôlés syntaxiquement ; le contenu est vérifié pour les identifiants, les références entre objets et les URL HTTPS. Les parcours principaux sont vérifiés dans le navigateur : recherche, comparaison, favoris, fiches, glossaire, budget et demande CNEF simulée. Les données d’exemple saisies pendant ces vérifications ne sont pas incorporées aux fichiers publiés.
+
+## Identité visuelle
+
+Titre : Orienta'Sion by CNEF. Palette et typographies adaptées de la charte Oulpan 2024 fournie : bleu `#025db8`, orange `#f55700`, vert `#1d8653`, jaune `#f8cf3e`, texte `#2e2e2e`, fond `#fff9f2`. League Spartan pour les titres, Playfair Display pour les accents éditoriaux, Poppins pour le texte. Les libellés accompagnent toujours les couleurs ; l’orange des petits textes est assombri pour préserver le contraste. Les formes géométriques sont dessinées en SVG, sans reprise du logotype Oulpan Lavi.
