@@ -1,11 +1,11 @@
 {
   "checkedOn": "2026-11-24",
-  "total": 57,
-  "postbac": 55,
+  "total": 56,
+  "postbac": 54,
   "bySubtype": {
     "Université": 11,
     "Mihlala académique": 29,
-    "Formation des enseignants": 17
+    "Formation des enseignants": 16
   },
   "notes": [
     "Périmètre : établissements universitaires du système de référence CHE/gouvernement israélien, comptés par institution et non par campus, faculté, école interne ou centre d’études. Aucun cursus nouveau n’est créé dans ce fichier.",
@@ -516,5 +516,9 @@
       "title": "Source officielle ou institutionnelle complémentaire — Hors périmètre",
       "role": "Hors périmètre"
     }
+  ],
+  "baselineTotal": 57,
+  "editorialExcludedIds": [
+    "al-qasemi"
   ]
 }

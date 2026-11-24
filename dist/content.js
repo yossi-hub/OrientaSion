@@ -1,5 +1,5 @@
-/* Répertoire élargi : 57 établissements, dont 55 avec premier cycle.
- * Sources consultées le 24 novembre 2026 ; détail et limites dans research/.
+/* Catalogue publié : 56 établissements, dont 54 avec premier cycle.
+ * Sources consultées le 24 novembre 2026 ; base de référence conservée dans research/.
  * Les cursus documentés restent un échantillon. Les critères français, tarifs
  * et calendriers doivent être vérifiés pour la rentrée et le cursus visés.
  * Les couleurs et monogrammes sont des repères graphiques, pas des logos officiels.
@@ -1544,34 +1544,6 @@ window.OS_DATA = {
       "locations": [
         "Givat Washington"
       ]
-    },
-    {
-      "id": "al-qasemi",
-      "name": "Al-Qasemi — Collège académique d’éducation",
-      "short": "Al-Qasemi",
-      "kind": "Mihlala",
-      "city": "Baqa al-Gharbiyye",
-      "initials": "AQ",
-      "color": "#567E70",
-      "description": "Collège académique d’éducation à Baqa al-Gharbiyye proposant notamment des diplômes B.Ed et des formations d’enseignants.",
-      "url": "https://site.qsm.ac.il/en/",
-      "hebrew": "אלקאסמי — מכללה אקדמית לחינוך",
-      "aliases": [
-        "Al Qasemi",
-        "Al-Qasemi Academy",
-        "QSM",
-        "אלקאסמי",
-        "القاسمي"
-      ],
-      "subtype": "Formation des enseignants",
-      "postbac": true,
-      "scopeNote": "L’adéquation linguistique et les conditions du diplôme français se vérifient auprès du programme ; l’établissement est inclus sans exclusion fondée sur le public habituel.",
-      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
-      "checkedOn": "2026-11-24",
-      "currentSource": "https://site.qsm.ac.il/en/about-the-college/",
-      "locations": [
-        "Baqa al-Gharbiyye"
-      ]
     }
   ],
   "courses": [
@@ -1954,11 +1926,14 @@ window.OS_DATA = {
     "academicYear": "2026–2027",
     "officialExpectedTotal": 57,
     "registrySource": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf#page=15",
-    "method": "Recensement nominatif à partir des publications CHE/CBS et des sites institutionnels, avec déduplication des fusions. Le total concorde avec le repère CHE, sans constituer une certification de couverture individuelle du registre en temps réel.",
-    "classificationNote": "Le CHE 2026 indique 11 universités, 28 collèges généraux et 18 collèges enseignants. La classification éditoriale utilise le statut général de Sakhnin décrit par ce même rapport : 11, 29 et 17. Aucun établissement n’est ajouté ou supprimé pour forcer les catégories.",
+    "method": "Base documentaire de 57 établissements rapprochée des sources CHE/CBS et des sites institutionnels. Le catalogue publié présente une sélection éditoriale de 56 établissements, dont 54 avec premier cycle. Le repère CHE de 57 est conservé à titre de comparaison, sans certification de couverture intégrale.",
+    "classificationNote": "Le CHE 2026 indique 11 universités, 28 collèges généraux et 18 collèges enseignants. La base éditoriale avant sélection classe Sakhnin selon sa transition vers une mihlala générale : 11, 29 et 17. Après le retrait demandé d’Al-Qasemi, le catalogue présente 11 universités, 29 collèges généraux et 16 établissements de formation des enseignants.",
     "outOfPostbac": [
       "weizmann",
       "schechter"
+    ],
+    "editorialExcludedIds": [
+      "al-qasemi"
     ]
   }
 };
