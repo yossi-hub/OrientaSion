@@ -1,0 +1,680 @@
+{
+  "institutions": [
+    {
+      "id": "david-yellin",
+      "name": "David-Yellin — Collège académique d’éducation",
+      "short": "David-Yellin",
+      "kind": "Mihlala",
+      "city": "Jérusalem",
+      "initials": "DY",
+      "color": "#426B75",
+      "description": "Établissement de formation des enseignants situé dans le quartier de Beit HaKerem à Jérusalem.",
+      "url": "https://www.dyellin.ac.il/",
+      "hebrew": "המכללה האקדמית לחינוך ע״ש דוד ילין",
+      "aliases": [
+        "David Yellin",
+        "David-Yellin",
+        "דוד ילין"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Cursus de premier diplôme en éducation et enseignement ; l’accès avec le bac français se vérifie pour chaque programme.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.dyellin.ac.il/en/about_us_english"
+    },
+    {
+      "id": "michlala-jerusalem",
+      "name": "Michlala — Collège académique de Jérusalem",
+      "short": "Michlala Jérusalem",
+      "kind": "Mihlala",
+      "city": "Jérusalem",
+      "initials": "MJ",
+      "color": "#686186",
+      "description": "Établissement académique de formation des enseignants associant études en éducation et cadre religieux juif.",
+      "url": "https://www.michlala.edu/",
+      "hebrew": "מכללה ירושלים",
+      "aliases": [
+        "Michlalah Jerusalem College",
+        "Michlala Jerusalem",
+        "מכללה ירושלים",
+        "מכללה לבנות ירושלים"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Ne pas confondre avec le Centre académique multidisciplinaire de Jérusalem. Le site distingue les programmes pour femmes et pour hommes.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.michlala.edu/about"
+    },
+    {
+      "id": "beit-berl",
+      "name": "Beit Berl — Collège académique",
+      "short": "Beit Berl",
+      "kind": "Mihlala",
+      "city": "Beit Berl, près de Kfar-Saba",
+      "initials": "BB",
+      "color": "#456D65",
+      "description": "Collège proposant des études en éducation et formation des enseignants, ainsi que des domaines artistiques et sociaux.",
+      "url": "https://www.beitberl.ac.il/",
+      "hebrew": "המכללה האקדמית בית ברל",
+      "aliases": [
+        "Beit Berl College",
+        "בית ברל",
+        "המכון האקדמי הערבי לחינוך",
+        "המדרשה לאמנות"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "L’Institut académique arabe de formation des enseignants est une unité de Beit Berl et non une entrée institutionnelle distincte dans ce catalogue.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.beitberl.ac.il/wp-content/uploads/2024/04/yedion-2022-23-1.pdf"
+    },
+    {
+      "id": "levinsky-wingate",
+      "name": "Levinsky-Wingate — Centre académique",
+      "short": "Levinsky-Wingate",
+      "kind": "Mihlala",
+      "city": "Tel-Aviv / Netanya / Eilat",
+      "initials": "LW",
+      "color": "#396B82",
+      "description": "Établissement issu de l’union de Levinsky et du Collège académique de Wingate, dans les domaines de l’éducation, du sport et de la musique.",
+      "url": "https://www.l-w.ac.il/",
+      "hebrew": "המרכז האקדמי לוינסקי־וינגייט",
+      "aliases": [
+        "Levinsky College",
+        "Wingate Academic College",
+        "Zinman College",
+        "לוינסקי",
+        "וינגייט",
+        "מכללת לוינסקי לחינוך",
+        "המכללה האקדמית בווינגייט"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Une seule institution. Les campus Levinsky, Wingate et Eilat ne sont pas comptés comme trois établissements ; vérifier le campus du cursus choisi.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.l-w.ac.il/about/"
+    },
+    {
+      "id": "kibbutzim",
+      "name": "Séminaire des kibboutzim — Collège d’éducation, de technologie et des arts",
+      "short": "Séminaire des kibboutzim",
+      "kind": "Mihlala",
+      "city": "Tel-Aviv",
+      "initials": "SK",
+      "color": "#956554",
+      "description": "Collège académique de formation des enseignants proposant notamment des études en sciences humaines, langues et arts.",
+      "url": "https://www.smkb.ac.il/",
+      "hebrew": "סמינר הקיבוצים — המכללה לחינוך לטכנולוגיה ולאמנויות",
+      "aliases": [
+        "Kibbutzim College",
+        "Seminar Hakibbutzim",
+        "סמינר הקיבוצים",
+        "המכללה להוראת טכנולוגיה"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "L’ancienne école de formation à l’enseignement de la technologie intégrée au collège ne constitue pas une entrée séparée.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://en.smkb.ac.il/academic-programs/faculty-of-humanities-and-social-sciences/"
+    },
+    {
+      "id": "oranim",
+      "name": "Oranim — Collège académique d’éducation",
+      "short": "Oranim",
+      "kind": "Mihlala",
+      "city": "Kiryat-Tivon",
+      "initials": "OR",
+      "color": "#4B7564",
+      "description": "Collège académique proposant des formations en éducation et enseignement dans les sciences, les langues, les humanités et les sciences sociales.",
+      "url": "https://www.oranim.ac.il/",
+      "hebrew": "אורנים — המכללה האקדמית לחינוך",
+      "aliases": [
+        "Oranim Academic College of Education",
+        "אורנים"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Les diplômes et établissements délivrant le titre doivent être vérifiés par parcours, notamment pour les formations scientifiques.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.oranim.ac.il/sites/heb/academic-units/Pages/default.aspx"
+    },
+    {
+      "id": "gordon",
+      "name": "Gordon — Collège académique d’éducation",
+      "short": "Gordon",
+      "kind": "Mihlala",
+      "city": "Haïfa",
+      "initials": "GO",
+      "color": "#4B668E",
+      "description": "Établissement de Haïfa formant des enseignants et proposant des diplômes en éducation ainsi que des dispositifs préparatoires.",
+      "url": "https://www.gordon.ac.il/",
+      "hebrew": "המכללה האקדמית לחינוך ע״ש א״ד גורדון",
+      "aliases": [
+        "Gordon Academic College",
+        "GACE",
+        "גורדון"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Conservé comme établissement distinct : le site officiel présente une offre active B.Ed et des programmes internationaux ; aucune fusion réalisée avec Haïfa ou Shaanan n’est retenue ici.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://en.gordon.ac.il/ContentPage/Our_College"
+    },
+    {
+      "id": "talpiot",
+      "name": "Talpiot — Collège académique d’éducation de Holon",
+      "short": "Talpiot",
+      "kind": "Mihlala",
+      "city": "Holon",
+      "initials": "TA",
+      "color": "#94667E",
+      "description": "Collège de formation des enseignants à Holon proposant des parcours dans différents niveaux scolaires et en éducation spécialisée.",
+      "url": "https://www.talpiot.ac.il/",
+      "hebrew": "תלפיות — המכללה האקדמית לחינוך בחולון",
+      "aliases": [
+        "Talpiot College",
+        "תלפיות"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Le site actuel indique une adresse à Holon et présente les cursus du premier diplôme ; vérifier l’organisation et les conditions propres au programme.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.talpiot.ac.il/first-degree/"
+    },
+    {
+      "id": "arab-haifa",
+      "name": "Collège académique arabe d’éducation en Israël — Haïfa",
+      "short": "Collège arabe de Haïfa",
+      "kind": "Mihlala",
+      "city": "Haïfa",
+      "initials": "AH",
+      "color": "#6C788A",
+      "description": "Établissement de formation des enseignants à Haïfa proposant des parcours en éducation, langues et sciences.",
+      "url": "https://arabcol.ac.il/",
+      "hebrew": "המכללה האקדמית הערבית לחינוך בישראל — חיפה",
+      "aliases": [
+        "The Academic Arab College for Education in Israel–Haifa",
+        "Arab Academic College",
+        "arabcol",
+        "המכללה הערבית לחינוך"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "L’adéquation linguistique, les publics admis et la prise en compte d’un bac français sont à confirmer auprès du programme.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://lp.arabcol.ac.il/"
+    },
+    {
+      "id": "herzog",
+      "name": "Herzog — Collège académique d’éducation",
+      "short": "Herzog",
+      "kind": "Mihlala",
+      "city": "Alon Shvut / Migdal Oz / Jérusalem",
+      "initials": "HE",
+      "color": "#726043",
+      "description": "Collège académique de formation des enseignants proposant des diplômes en éducation sur plusieurs campus.",
+      "url": "https://www.herzog.ac.il/",
+      "hebrew": "המכללה האקדמית הרצוג מיסודן של מכללות ליפשיץ והרצוג",
+      "aliases": [
+        "Herzog College",
+        "Lifshitz College",
+        "Lipschitz",
+        "הרצוג",
+        "ליפשיץ"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Herzog et l’ancienne Lifshitz sont comptés une seule fois. Le campus du programme doit être précisé ; Alon Shvut et Migdal Oz se situent en Cisjordanie.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://old.herzog.ac.il/english/about/"
+    },
+    {
+      "id": "kaye",
+      "name": "Kaye — Collège académique d’éducation",
+      "short": "Kaye",
+      "kind": "Mihlala",
+      "city": "Beer-Sheva",
+      "initials": "KA",
+      "color": "#A0774A",
+      "description": "Collège de formation des enseignants à Beer-Sheva proposant des diplômes en éducation et des programmes préparatoires.",
+      "url": "https://kaye.ac.il/",
+      "hebrew": "המכללה האקדמית לחינוך ע״ש קיי באר שבע",
+      "aliases": [
+        "Kaye Academic College of Education",
+        "Kay College",
+        "קיי",
+        "מכללת קיי"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Premier diplôme B.Ed et certificat d’enseignement dans différents niveaux scolaires ; conditions d’admission à vérifier par parcours.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://kaye.ac.il/en/about/"
+    },
+    {
+      "id": "orot-israel",
+      "name": "Orot Israël — Collège académique d’éducation",
+      "short": "Orot Israël",
+      "kind": "Mihlala",
+      "city": "Elkana / Rehovot",
+      "initials": "OI",
+      "color": "#85694D",
+      "description": "Établissement académique de formation des enseignants avec des campus à Elkana et à Rehovot.",
+      "url": "https://orot.ac.il/",
+      "hebrew": "אורות ישראל — מכללה אקדמית לחינוך מיסודן של מכללות אורות ישראל ומורשת יעקב",
+      "aliases": [
+        "Orot Israel College",
+        "Moreshet Yaakov",
+        "Moreshet Jacob",
+        "אורות ישראל",
+        "מורשת יעקב"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Une seule institution pour Orot Israël et l’ancienne Moreshet Yaakov. Des programmes associés existent à Beit Shemesh ; Elkana se situe en Cisjordanie.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://orot.ac.il/"
+    },
+    {
+      "id": "emuna-efrata",
+      "name": "Emouna-Efrata — Collège académique d’arts et d’éducation",
+      "short": "Emouna-Efrata",
+      "kind": "Mihlala",
+      "city": "Jérusalem",
+      "initials": "EE",
+      "color": "#92606D",
+      "description": "Établissement académique regroupant des formations en arts et en éducation sous les noms Emouna et Efrata.",
+      "url": "https://emuna.emef.ac.il/",
+      "hebrew": "אמונה־אפרתה — מכללה אקדמית לאמנויות וחינוך",
+      "aliases": [
+        "Emuna Efrata",
+        "Emuna",
+        "Efrata",
+        "Ephrata",
+        "אמונה",
+        "אפרתה"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Une seule entrée institutionnelle : les deux sites de marque emuna.emef.ac.il et efrata.emef.ac.il ne sont pas comptés séparément.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://mr.gov.il/ilgstorefront/he/p/4000624376"
+    },
+    {
+      "id": "hemdat",
+      "name": "Hemdat — Collège académique d’éducation",
+      "short": "Hemdat",
+      "kind": "Mihlala",
+      "city": "Sdot Negev, près de Netivot",
+      "initials": "HM",
+      "color": "#657B4B",
+      "description": "Collège académique d’éducation implanté dans la cité éducative de Sdot Negev, près de Netivot.",
+      "url": "https://www.hemdat.ac.il/",
+      "hebrew": "המכללה האקדמית חמדת",
+      "aliases": [
+        "Hemdat Hadarom",
+        "Hemdat HaDarom",
+        "חמדת",
+        "חמדת הדרום"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "L’ancien nom Hemdat HaDarom renvoie au même établissement ; les cursus et leur admission doivent être vérifiés pour la rentrée visée.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.hemdat.ac.il/%D7%9E%D7%95%D7%A2%D7%9E%D7%93%D7%99%D7%9D/"
+    },
+    {
+      "id": "shaanan",
+      "name": "Shaanan — Collège académique religieux d’éducation",
+      "short": "Shaanan",
+      "kind": "Mihlala",
+      "city": "Haïfa — Kiryat Shmuel",
+      "initials": "SH",
+      "color": "#686A93",
+      "description": "Collège académique religieux de formation des enseignants situé à Kiryat Shmuel, à Haïfa.",
+      "url": "https://www.shaanan.ac.il/",
+      "hebrew": "שאנן — המכללה האקדמית הדתית לחינוך",
+      "aliases": [
+        "Shaanan College",
+        "Sha’anan",
+        "שאנן",
+        "ד״ר יחיאל בן נון"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Conservé comme établissement distinct : les sources officielles présentent ses formations propres et son règlement 2025-2026.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://www.shaanan.ac.il/odot_hamichlala/al_hamichlala/"
+    },
+    {
+      "id": "givat-washington",
+      "name": "Givat Washington — Collège académique d’éducation",
+      "short": "Givat Washington",
+      "kind": "Mihlala",
+      "city": "Givat Washington",
+      "initials": "GW",
+      "color": "#617B81",
+      "description": "Collège académique d’éducation proposant notamment des formations d’enseignants en éducation spécialisée, sport, musique et disciplines scolaires.",
+      "url": "https://michlala.washington.ac.il/college/",
+      "hebrew": "המכללה האקדמית לחינוך גבעת ושינגטון",
+      "aliases": [
+        "Givat Washington College",
+        "Givat Vashington",
+        "גבעת ושינגטון",
+        "גבעת וושינגטון"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "Campus près de la jonction de Kanot, entre Yavne, Gedera et Ashdod. Les autres structures de la cité éducative ne constituent pas des établissements académiques séparés.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://michlala.washington.ac.il/college/"
+    },
+    {
+      "id": "al-qasemi",
+      "name": "Al-Qasemi — Collège académique d’éducation",
+      "short": "Al-Qasemi",
+      "kind": "Mihlala",
+      "city": "Baqa al-Gharbiyye",
+      "initials": "AQ",
+      "color": "#567E70",
+      "description": "Collège académique d’éducation à Baqa al-Gharbiyye proposant notamment des diplômes B.Ed et des formations d’enseignants.",
+      "url": "https://site.qsm.ac.il/en/",
+      "hebrew": "אלקאסמי — מכללה אקדמית לחינוך",
+      "aliases": [
+        "Al Qasemi",
+        "Al-Qasemi Academy",
+        "QSM",
+        "אלקאסמי",
+        "القاسمي"
+      ],
+      "subtype": "Formation des enseignants",
+      "postbac": true,
+      "scopeNote": "L’adéquation linguistique et les conditions du diplôme français se vérifient auprès du programme ; l’établissement est inclus sans exclusion fondée sur le public habituel.",
+      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "checkedOn": "2026-11-24",
+      "currentSource": "https://site.qsm.ac.il/en/about-the-college/"
+    }
+  ],
+  "notes": [
+    {
+      "topic": "Périmètre et décompte",
+      "text": "17 établissements enseignants distincts ont été documentés dans ce fichier. La synthèse CHE d’octobre 2026 annonce 18 collèges d’éducation, dont 13 financés par le ministère de l’Éducation et 5 par le PBC. La différence résiduelle de 1 n’a pas été résolue : ne pas présenter cette liste comme une concordance nominative exhaustive avec les 18 agrégés.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf"
+      ]
+    },
+    {
+      "topic": "Sakhnin",
+      "text": "Sakhnin est exclu de ce fichier pour éviter un doublon avec les collèges académiques généraux. Le CHE d’octobre 2026 décrit son passage du financement du ministère de l’Éducation au PBC et son évolution vers un collège académique général. Plusieurs annuaires officiels plus anciens le classent encore en formation des enseignants.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+        "https://www.nite.org.il/institutions/?lang=en"
+      ]
+    },
+    {
+      "topic": "Levinsky et Wingate",
+      "text": "Comptés une seule fois sous Levinsky-Wingate. Le CHE a approuvé la fusion en 2021 ; le site institutionnel actuel décrit l’établissement unifié et ses campus. Le Wingate Institute et ses formations non académiques ne doivent pas être confondus avec le collège fusionné.",
+      "sources": [
+        "https://www.l-w.ac.il/about/",
+        "https://che.org.il/wp-content/uploads/2021/06/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-%D7%9E%D7%99%D7%95%D7%9D-27.4.2021.pdf"
+      ]
+    },
+    {
+      "topic": "Ohalo et Tel-Hai",
+      "text": "Ohalo n’est pas une entrée séparée : la fusion avec Tel-Hai est documentée avec prise d’effet au 1er janvier 2021. Le CHE2026 décrit ensuite la transformation de Tel-Hai en université de Kiryat Shmona en Galilée.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2021/08/22-%D7%AA%D7%9C-%D7%97%D7%99-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4.pdf",
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf"
+      ]
+    },
+    {
+      "topic": "WIZO Haïfa",
+      "text": "Le Centre académique WIZO de design et d’éducation est exclu comme établissement indépendant : transfert de ses activités à l’Université de Haïfa documenté dans les comptes officiels. Les programmes doivent figurer sous l’Université de Haïfa. Les anciens annuaires peuvent encore afficher WIZO séparément.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2025/09/5-%D7%97%D7%99%D7%A4%D7%94-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%9B%D7%A1%D7%A4%D7%99%D7%99%D7%9D-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%93.pdf"
+      ]
+    },
+    {
+      "topic": "Autres regroupements",
+      "text": "Herzog/Lifshitz, Orot Israël/Moreshet Yaakov et Emouna/Efrata sont chacun comptés une seule fois. Un marché du ministère de l’Éducation publié le 16 novembre 2026 emploie encore la désignation unifiée Emouna-Efrata.",
+      "sources": [
+        "https://www.cbs.gov.il/he/mediarelease/DocLib/2020/221/06_20_221b.pdf",
+        "https://mr.gov.il/ilgstorefront/he/p/4000624376"
+      ]
+    },
+    {
+      "topic": "Gordon et Shaanan",
+      "text": "Les deux sont conservés séparément. Des discussions historiques de rapprochement ne suffisent pas à établir une fusion réalisée ; leurs sites institutionnels présentent toujours leurs offres et règlements propres.",
+      "sources": [
+        "https://en.gordon.ac.il/ContentPage/Our_College",
+        "https://www.shaanan.ac.il/odot_hamichlala/al_hamichlala/"
+      ]
+    },
+    {
+      "topic": "ORT et enseignement de la technologie",
+      "text": "La chronologie institutionnelle du Séminaire des kibboutzim documente sa fusion avec l’ancienne Mihlala de formation à l’enseignement de la technologie. Aucun établissement B.Ed supplémentaire n’a été créé dans ce fichier sur la seule base d’un ancien libellé ORT/Singalovsky présent dans certains annuaires.",
+      "sources": [
+        "https://smkb.localtimeline.com/index.php?id=341&lang=he&option=com_localstory&tmpl=component&view=event"
+      ]
+    },
+    {
+      "topic": "Usage des sources",
+      "text": "registrySource est un guide officiel d’identification, mais certaines de ses dénominations restent historiques malgré sa date de mise à jour. currentSource documente l’offre ou l’identité actuelle de chaque institution. checkedOn signifie consultation le 24 novembre 2026, et non validation formelle du CHE pour chaque cursus. Les conditions bac français, langues, tarifs, ouvertures de candidature et campus exacts restent à compléter par programme.",
+      "sources": [
+        "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4"
+      ]
+    },
+    {
+      "topic": "Hors périmètre",
+      "text": "Les séminaires d’enseignement non académiques et les unités de formation continue ne sont pas recensés comme établissements distincts. Achva est un collège général avec une offre de formation des enseignants et relève du fichier des collèges généraux.",
+      "sources": [
+        "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+        "https://www.cbs.gov.il/he/publications/doclib/2019/4.shnatoneducation/st_eng04.pdf"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+      "title": "CHE — Ouverture de l’année 2026-2027, octobre 2026",
+      "role": "Décompte agrégé 18 enseignants, passage de Sakhnin au secteur général, Tel-Hai université."
+    },
+    {
+      "url": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "title": "Ministère de l’Alya et de l’Intégration — guide officiel des établissements",
+      "role": "Référentiel nominatif de départ, libellés historiques à réconcilier."
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2020/221/06_20_221b.pdf",
+      "title": "CBS — Établissements de l’enseignement supérieur, année 2018-2019",
+      "role": "Baseline officielle historique 21 collèges d’éducation et noms regroupés."
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2022/331/06_22_331b.pdf",
+      "title": "CBS — Enseignement supérieur 2021-2022",
+      "role": "Baseline20 et intégration d’Ohalo à Tel-Hai."
+    },
+    {
+      "url": "https://www.dyellin.ac.il/en/about_us_english",
+      "title": "David-Yellin — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "david-yellin"
+      ]
+    },
+    {
+      "url": "https://www.michlala.edu/about",
+      "title": "Michlala — Collège académique de Jérusalem — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "michlala-jerusalem"
+      ]
+    },
+    {
+      "url": "https://www.beitberl.ac.il/wp-content/uploads/2024/04/yedion-2022-23-1.pdf",
+      "title": "Beit Berl — Collège académique — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "beit-berl"
+      ]
+    },
+    {
+      "url": "https://www.l-w.ac.il/about/",
+      "title": "Levinsky-Wingate — Centre académique — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "levinsky-wingate"
+      ]
+    },
+    {
+      "url": "https://en.smkb.ac.il/academic-programs/faculty-of-humanities-and-social-sciences/",
+      "title": "Séminaire des kibboutzim — Collège d’éducation, de technologie et des arts — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "kibbutzim"
+      ]
+    },
+    {
+      "url": "https://www.oranim.ac.il/sites/heb/academic-units/Pages/default.aspx",
+      "title": "Oranim — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "oranim"
+      ]
+    },
+    {
+      "url": "https://en.gordon.ac.il/ContentPage/Our_College",
+      "title": "Gordon — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "gordon"
+      ]
+    },
+    {
+      "url": "https://www.talpiot.ac.il/first-degree/",
+      "title": "Talpiot — Collège académique d’éducation de Holon — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "talpiot"
+      ]
+    },
+    {
+      "url": "https://lp.arabcol.ac.il/",
+      "title": "Collège académique arabe d’éducation en Israël — Haïfa — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "arab-haifa"
+      ]
+    },
+    {
+      "url": "https://old.herzog.ac.il/english/about/",
+      "title": "Herzog — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "herzog"
+      ]
+    },
+    {
+      "url": "https://kaye.ac.il/en/about/",
+      "title": "Kaye — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "kaye"
+      ]
+    },
+    {
+      "url": "https://orot.ac.il/",
+      "title": "Orot Israël — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "orot-israel"
+      ]
+    },
+    {
+      "url": "https://mr.gov.il/ilgstorefront/he/p/4000624376",
+      "title": "Emouna-Efrata — Collège académique d’arts et d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "emuna-efrata"
+      ]
+    },
+    {
+      "url": "https://www.hemdat.ac.il/%D7%9E%D7%95%D7%A2%D7%9E%D7%93%D7%99%D7%9D/",
+      "title": "Hemdat — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "hemdat"
+      ]
+    },
+    {
+      "url": "https://www.shaanan.ac.il/odot_hamichlala/al_hamichlala/",
+      "title": "Shaanan — Collège académique religieux d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "shaanan"
+      ]
+    },
+    {
+      "url": "https://michlala.washington.ac.il/college/",
+      "title": "Givat Washington — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "givat-washington"
+      ]
+    },
+    {
+      "url": "https://site.qsm.ac.il/en/about-the-college/",
+      "title": "Al-Qasemi — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "al-qasemi"
+      ]
+    },
+    {
+      "url": "https://www.nite.org.il/institutions/?lang=en",
+      "title": "Source officielle ou institutionnelle complémentaire — Sakhnin",
+      "role": "Sakhnin"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2021/06/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-%D7%9E%D7%99%D7%95%D7%9D-27.4.2021.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Levinsky et Wingate",
+      "role": "Levinsky et Wingate"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2021/08/22-%D7%AA%D7%9C-%D7%97%D7%99-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Ohalo et Tel-Hai",
+      "role": "Ohalo et Tel-Hai"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2025/09/5-%D7%97%D7%99%D7%A4%D7%94-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%9B%D7%A1%D7%A4%D7%99%D7%99%D7%9D-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%93.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — WIZO Haïfa",
+      "role": "WIZO Haïfa"
+    },
+    {
+      "url": "https://smkb.localtimeline.com/index.php?id=341&lang=he&option=com_localstory&tmpl=component&view=event",
+      "title": "Source officielle ou institutionnelle complémentaire — ORT et enseignement de la technologie",
+      "role": "ORT et enseignement de la technologie"
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2019/4.shnatoneducation/st_eng04.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Hors périmètre",
+      "role": "Hors périmètre"
+    }
+  ]
+}

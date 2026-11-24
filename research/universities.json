@@ -1,0 +1,481 @@
+{
+  "institutions": [
+    {
+      "id": "huji",
+      "name": "Université hébraïque de Jérusalem",
+      "short": "Université hébraïque",
+      "city": "Jérusalem",
+      "initials": "HUJI",
+      "color": "#236567",
+      "description": "Université de recherche proposant des études de premier cycle et des études avancées dans plusieurs domaines scientifiques, humains et sociaux.",
+      "url": "https://en.huji.ac.il/",
+      "hebrew": "האוניברסיטה העברית בירושלים",
+      "aliases": [
+        "HUJI",
+        "Hebrew University",
+        "The Hebrew University of Jerusalem",
+        "Université hébraïque",
+        "האוניברסיטה העברית"
+      ],
+      "postbac": true,
+      "scopeNote": "Propose des premiers cycles. Le campus, la langue et les conditions applicables au bac français se vérifient pour chaque cursus.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "technion",
+      "name": "Technion — Institut israélien de technologie",
+      "short": "Technion",
+      "city": "Haïfa",
+      "initials": "TEC",
+      "color": "#315778",
+      "description": "Université de recherche proposant notamment des premiers cycles en sciences et en ingénierie, ainsi que des études avancées.",
+      "url": "https://www.technion.ac.il/en/",
+      "hebrew": "הטכניון – מכון טכנולוגי לישראל",
+      "aliases": [
+        "Technion",
+        "Technion – Israel Institute of Technology",
+        "Israel Institute of Technology",
+        "הטכניון",
+        "מכון טכנולוגי לישראל"
+      ],
+      "postbac": true,
+      "scopeNote": "Les parcours de premier cycle et leurs variantes sont à distinguer. Les centres et facultés sont des unités de la même institution.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tau",
+      "name": "Université de Tel-Aviv",
+      "short": "Université de Tel-Aviv",
+      "city": "Tel-Aviv",
+      "initials": "TAU",
+      "color": "#55548A",
+      "description": "Université de recherche proposant des premiers cycles et des études avancées dans les sciences, les lettres, les sciences sociales et les disciplines professionnelles.",
+      "url": "https://english.tau.ac.il/",
+      "hebrew": "אוניברסיטת תל־אביב",
+      "aliases": [
+        "TAU",
+        "Tel Aviv University",
+        "Université de Tel Aviv",
+        "אוניברסיטת תל אביב"
+      ],
+      "postbac": true,
+      "scopeNote": "Les cursus habituels et les programmes internationaux relèvent de la même université ; leurs langues et conditions doivent être vérifiées séparément.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "bgu",
+      "name": "Université Ben-Gourion du Néguev",
+      "short": "Université Ben-Gourion",
+      "city": "Beer-Sheva",
+      "initials": "BGU",
+      "color": "#B67740",
+      "description": "Université de recherche établie dans le Néguev, proposant des études de premier cycle et des études avancées.",
+      "url": "https://www.bgu.ac.il/en/",
+      "hebrew": "אוניברסיטת בן־גוריון בנגב",
+      "aliases": [
+        "BGU",
+        "Ben-Gurion University of the Negev",
+        "Ben Gurion",
+        "Université Ben Gourion",
+        "אוניברסיטת בן גוריון בנגב"
+      ],
+      "postbac": true,
+      "scopeNote": "Beer-Sheva est le repère principal de cette fiche. Les différents campus et centres ne constituent pas des établissements indépendants dans cet annuaire.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "biu",
+      "name": "Université Bar-Ilan",
+      "short": "Bar-Ilan",
+      "city": "Ramat Gan",
+      "initials": "BIU",
+      "color": "#386F8C",
+      "description": "Université de recherche dont le campus principal est à Ramat Gan, avec des formations de premier cycle et des études avancées.",
+      "url": "https://www.biu.ac.il/en",
+      "hebrew": "אוניברסיטת בר־אילן",
+      "aliases": [
+        "BIU",
+        "Bar-Ilan University",
+        "Bar Ilan",
+        "Université Bar Ilan",
+        "אוניברסיטת בר אילן"
+      ],
+      "postbac": true,
+      "scopeNote": "Propose des premiers cycles ; le site d’enseignement et les modalités d’admission se vérifient au niveau de la formation.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "haifa",
+      "name": "Université de Haïfa",
+      "short": "Université de Haïfa",
+      "city": "Haïfa",
+      "initials": "UH",
+      "color": "#317569",
+      "description": "Université de recherche proposant des premiers cycles et des études avancées ; elle comprend aussi une école de design issue de la fusion avec WIZO Haïfa.",
+      "url": "https://www.haifa.ac.il/",
+      "hebrew": "אוניברסיטת חיפה",
+      "aliases": [
+        "University of Haifa",
+        "Haifa University",
+        "Université de Haifa",
+        "אוניברסיטת חיפה"
+      ],
+      "postbac": true,
+      "scopeNote": "WIZO Haïfa est à traiter comme une ancienne institution intégrée à l’université, et non comme une seconde université. Le campus dépend du cursus.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "ariel",
+      "name": "Université d’Ariel",
+      "short": "Université d’Ariel",
+      "city": "Ariel",
+      "initials": "AU",
+      "color": "#507591",
+      "description": "Université proposant des formations de premier cycle et des études avancées. Elle figure dans le dictionnaire gouvernemental des établissements d’enseignement supérieur.",
+      "url": "https://www.ariel.ac.il/wp/en/",
+      "hebrew": "אוניברסיטת אריאל בשומרון",
+      "aliases": [
+        "Ariel University",
+        "Ariel University in Samaria",
+        "Université Ariel",
+        "Ariel University Center",
+        "המרכז האוניברסיטאי אריאל",
+        "אוניברסיטת אריאל"
+      ],
+      "postbac": true,
+      "scopeNote": "Les formations universitaires et les formations de technicien supérieur proposées dans l’environnement d’Ariel ne doivent pas être confondues.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "reichman",
+      "name": "Université Reichman",
+      "short": "Reichman",
+      "city": "Herzliya",
+      "initials": "RU",
+      "color": "#596288",
+      "description": "Université située à Herzliya, issue de l’ancien Centre interdisciplinaire, avec des programmes de premier cycle et des études avancées.",
+      "url": "https://www.runi.ac.il/en/",
+      "hebrew": "אוניברסיטת רייכמן",
+      "aliases": [
+        "Reichman University",
+        "RUNI",
+        "IDC Herzliya",
+        "Interdisciplinary Center Herzliya",
+        "Centre interdisciplinaire de Herzliya",
+        "המרכז הבינתחומי הרצליה",
+        "המרכז הבינתחומי בהרצליה"
+      ],
+      "postbac": true,
+      "scopeNote": "L’ancien IDC Herzliya et l’actuelle université Reichman désignent la même institution. Le CHE la classe parmi les universités hors financement budgétaire public.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university",
+      "name": "Université ouverte d’Israël",
+      "short": "Université ouverte",
+      "city": "Ra’anana",
+      "initials": "OUI",
+      "color": "#A36C49",
+      "description": "Université proposant notamment des bachelors, avec une organisation d’apprentissage à distance et des centres d’études. Son siège est à Ra’anana.",
+      "url": "https://www.openu.ac.il/en/pages/default.aspx",
+      "hebrew": "האוניברסיטה הפתוחה",
+      "aliases": [
+        "The Open University of Israel",
+        "Open University of Israel",
+        "OUI",
+        "Université ouverte",
+        "HaUniversita HaPtouha",
+        "האוניברסיטה הפתוחה בישראל"
+      ],
+      "postbac": true,
+      "scopeNote": "L’inscription initiale au premier cycle est ouverte sans condition préalable générale de diplôme ou de psychométrique. Les prérequis des cours et les exigences de progression et de diplôme restent applicables. Ra’anana indique le siège, pas un lieu unique d’études.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tel-hai",
+      "name": "Université de Kiryat Shmona en Galilée — Tel-Hai",
+      "short": "Kiryat Shmona — Tel-Hai",
+      "city": "Kiryat Shmona / Tel-Hai",
+      "initials": "THU",
+      "color": "#6F7E42",
+      "description": "Université issue du Collège académique de Tel-Hai, proposant des premiers cycles et des études avancées sur plusieurs campus en Galilée.",
+      "url": "https://www.telhai.ac.il/",
+      "hebrew": "תל־חי, אוניברסיטת קריית שמונה בגליל",
+      "aliases": [
+        "Tel-Hai",
+        "Tel Hai",
+        "Tel-Hai Academic College",
+        "Tel Hai Academic College",
+        "Kiryat Shmona University in the Galilee",
+        "University of Kiryat Shmona in the Galilee",
+        "Collège académique de Tel-Hai",
+        "המכללה האקדמית תל-חי",
+        "אוניברסיטת קריית שמונה בגליל",
+        "אוניברסיטת קריית שמונה תל-חי"
+      ],
+      "postbac": true,
+      "scopeNote": "Le CHE a accordé une reconnaissance universitaire temporaire pour cinq ans à compter de 2026-2027. L’ancien Collège académique Tel-Hai n’est pas une seconde institution. Le site officiel décrit notamment un campus d’éducation à Katzrin ; le lieu effectif dépend du cursus.",
+      "registrySource": "https://che.org.il/wp-content/uploads/2026/01/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-20.1.2026-1.pdf",
+      "kind": "Université",
+      "subtype": "Université",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "weizmann",
+      "name": "Institut Weizmann des sciences",
+      "short": "Institut Weizmann",
+      "city": "Rehovot",
+      "initials": "WIS",
+      "color": "#795B86",
+      "description": "Institut de recherche et d’enseignement supérieur à Rehovot, consacré aux études avancées et à la recherche scientifique ; il ne délivre pas de bachelor.",
+      "url": "https://www.weizmann.ac.il/pages/",
+      "hebrew": "מכון ויצמן למדע",
+      "aliases": [
+        "Weizmann Institute of Science",
+        "WIS",
+        "Weizmann School of Science",
+        "Feinberg Graduate School",
+        "Institut Weizmann",
+        "מדרשת פיינברג"
+      ],
+      "postbac": false,
+      "scopeNote": "Conservé pour documenter le paysage universitaire, mais à exclure du choix d’un cursus directement après le bac. Les M.Sc., doctorats et le MD-PhD relèvent d’études après un premier diplôme. Le dictionnaire gouvernemental le décrit comme un institut académique de recherche.",
+      "kind": "Université",
+      "subtype": "Université",
+      "registrySource": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "checkedOn": "2026-11-24"
+    }
+  ],
+  "notes": [
+    "Périmètre : établissements universitaires du système de référence CHE/gouvernement israélien, comptés par institution et non par campus, faculté, école interne ou centre d’études. Aucun cursus nouveau n’est créé dans ce fichier.",
+    "Couverture contrôlée de onze établissements : dix proposent un premier cycle ; Weizmann est documenté avec postbac:false. Le total concorde avec les onze universités annoncées par le CHE pour 2026-2027 : dix financées et une hors budget.",
+    "La base n’est pas un export exhaustif d’un registre en temps réel : elle réconcilie le dictionnaire gouvernemental daté du 10 juin 2026, les décisions récentes du CHE et les sites institutionnels. Le tableau gouvernemental a été lu via son contenu indexé, car son affichage direct est dynamique.",
+    "Le dictionnaire de juin 2026 identifie les dix établissements historiques ; il ne suffit pas à refléter la transformation universitaire de Tel-Hai effective en 2026-2027. Les listes CHE de 2016/2018, rencontrées dans la recherche, n’ont pas été utilisées comme registre actuel.",
+    "Pour Kiryat Shmona / Tel-Hai, la décision CHE du 20 janvier 2026 accorde cinq ans de reconnaissance temporaire à partir de 2026-2027, jusqu’à la fin de 2030-2031. Le statut ne doit pas être présenté comme une reconnaissance permanente.",
+    "Reichman et l’ancien IDC Herzliya sont une seule institution. De même, Tel-Hai et sa nouvelle identité universitaire ne doivent pas apparaître deux fois.",
+    "Contrôle des doublons à appliquer dans le répertoire complet : WIZO Haïfa a été intégré à l’Université de Haïfa ; le campus de Katzrin anciennement Ohalo appartient à l’ensemble Tel-Hai. Ces noms historiques peuvent être conservés comme renvois, pas comme institutions universitaires supplémentaires.",
+    "Pour cohérence du schéma, kind et subtype valent Université pour Weizmann dans cette collection. Son nom reste Institut Weizmann ; le dictionnaire gouvernemental le décrit plus précisément comme un institut académique de recherche, et non comme une université à accès post-bac.",
+    "postbac:true signifie qu’un établissement propose des études de premier cycle ; cela ne signifie ni admission automatique d’un bachelier français, ni disponibilité de tous les cursus. Les programmes, sites d’enseignement, langues et critères de la rentrée souhaitée restent à examiner individuellement.",
+    "L’Université ouverte est incluse : son inscription initiale ouverte ne supprime pas les exigences académiques de progression, les prérequis des cours ou les conditions d’obtention du diplôme.",
+    "Les couleurs et initiales servent à l’interface ; elles ne prétendent pas reproduire les chartes graphiques officielles. checkedOn indique la date de consultation documentaire."
+  ],
+  "sources": [
+    {
+      "id": "che-rentree-2026-27",
+      "title": "CHE — Ouverture de l’année universitaire 2026-2027, octobre 2026",
+      "url": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+      "role": "Contrôle du total actuel : onze universités, dont dix financées et une hors budget ; transition de Tel-Hai.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "government-institutions-dictionary",
+      "title": "Dictionnaire gouvernemental des établissements d’enseignement supérieur",
+      "url": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "updatedOn": "2026-06-10",
+      "role": "Noms et types des dix établissements historiques. Tableau consulté par son contenu indexé ; la page ouverte directement est dynamique.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "che-tel-hai-recognition",
+      "title": "CHE — Décision du 20 janvier 2026, reconnaissance universitaire temporaire de Kiryat Shmona en Galilée",
+      "url": "https://che.org.il/wp-content/uploads/2026/01/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-20.1.2026-1.pdf",
+      "role": "Décision 1300/14 : reconnaissance pour cinq ans à partir de 2026-2027.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "government-tel-hai-opening",
+      "title": "Gouvernement — Ouverture de l’année à la nouvelle université de Kiryat Shmona–Tel-Hai, 20 octobre 2026",
+      "url": "https://www.gov.il/he/pages/event-telchay201026",
+      "role": "Confirmation contemporaine de la mise en activité universitaire.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "nite-current-institutions",
+      "title": "NITE — Établissements destinataires des résultats",
+      "url": "https://www.nite.org.il/institutions/",
+      "role": "Contrôle complémentaire des dix universités avec accès au premier cycle ; ne remplace pas un registre d’accréditation.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-huji",
+      "title": "Université hébraïque de Jérusalem — site officiel",
+      "url": "https://en.huji.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-technion",
+      "title": "Technion — Institut israélien de technologie — site officiel",
+      "url": "https://www.technion.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-tau",
+      "title": "Université de Tel-Aviv — site officiel",
+      "url": "https://english.tau.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-bgu",
+      "title": "Université Ben-Gourion du Néguev — site officiel",
+      "url": "https://www.bgu.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-biu",
+      "title": "Université Bar-Ilan — site officiel",
+      "url": "https://www.biu.ac.il/en",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-haifa",
+      "title": "Université de Haïfa — site officiel",
+      "url": "https://www.haifa.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-ariel",
+      "title": "Université d’Ariel — site officiel",
+      "url": "https://www.ariel.ac.il/wp/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-reichman",
+      "title": "Université Reichman — site officiel",
+      "url": "https://www.runi.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-open-university",
+      "title": "Université ouverte d’Israël — site officiel",
+      "url": "https://www.openu.ac.il/en/pages/default.aspx",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-tel-hai",
+      "title": "Université de Kiryat Shmona en Galilée — Tel-Hai — site officiel",
+      "url": "https://www.telhai.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-weizmann",
+      "title": "Institut Weizmann des sciences — site officiel",
+      "url": "https://www.weizmann.ac.il/pages/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "bar-ilan-admissions",
+      "title": "Bar-Ilan — Candidatures aux études de premier cycle, master et doctorat",
+      "url": "https://www.biu.ac.il/en/registration-and-admission/information/registration",
+      "role": "Premier cycle et adresse à Ramat Gan.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "ariel-2026-brochure",
+      "title": "Ariel — Brochure des études de premier et deuxième cycles, 2026",
+      "url": "https://www.ariel.ac.il/wp/wp-content/uploads/2026/06/BA_2026_A5_MAY_newD-6.pdf",
+      "role": "Confirmation de formations de premier cycle actuelles.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "reichman-2026-27-brochure",
+      "title": "Reichman — Information pour les candidats au premier cycle 2026-2027",
+      "url": "https://www.runi.ac.il/media/pijdru43/ba-brochure-2026_web.pdf",
+      "role": "Confirmation de formations de premier cycle et de l’identité actuelle.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-admissions",
+      "title": "Université ouverte — Admissions",
+      "url": "https://www.openu.ac.il/en/pages/Admissions.aspx",
+      "role": "Inscription au premier cycle et distinction avec les études de master.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-study-structure",
+      "title": "Université ouverte — Organisation et structure des études",
+      "url": "https://academic.openu.ac.il/yedion/pages/studies-general.aspx",
+      "role": "Bachelors et inscription initiale ouverte, distincte des exigences des cours et du diplôme.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-address",
+      "title": "Université ouverte — Coordonnées",
+      "url": "https://www.openu.ac.il/contactus/pages/default.aspx",
+      "role": "Adresse du siège à Ra’anana.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tel-hai-about",
+      "title": "Tel-Hai / Université de Kiryat Shmona en Galilée — Présentation",
+      "url": "https://www.telhai.ac.il/%D7%A2%D7%9C_%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94",
+      "role": "Nom actuel, premiers cycles et organisation par campus, dont Katzrin.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "haifa-wizo-merger",
+      "title": "Université de Haïfa — Rapport du président 2024",
+      "url": "https://pr.haifa.ac.il/wp-content/uploads/2024/06/Presidents-Report-2024-FINAL-21_5-digital_pm.pdf",
+      "role": "Fusion avec le centre académique WIZO Haïfa et école de design.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tel-hai-katzrin-ohalo",
+      "title": "Tel-Hai — Procès-verbal de visite de chantier, campus de Katzrin anciennement Ohalo",
+      "url": "https://www.telhai.ac.il/sites/default/files/2022-12/%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C%20%D7%A1%D7%99%D7%95%D7%A8%20%D7%A7%D7%91%D7%9C%D7%A0%D7%99%D7%9D%20%D7%99%D7%A9%20%D7%9C%D7%94%D7%92%D7%99%D7%A9%20%D7%97%D7%AA%D7%95%D7%9D%20%D7%A2%D7%9D%20%D7%9E%D7%A1%D7%9E%D7%9B%D7%99%20%D7%94%D7%9E%D7%9B%D7%A8%D7%96_0.pdf",
+      "role": "Document institutionnel identifiant Katzrin comme ancien Ohalo, pour éviter les doublons historiques.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "weizmann-no-bachelor-2026",
+      "title": "Weizmann — From student to scientist, publication de septembre 2026",
+      "url": "https://www.weizmann.ac.il/pages/index.php/news/magazine/from-student-to-scientist",
+      "role": "Indique explicitement que Weizmann ne propose pas de bachelor.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "weizmann-mdphd-entry",
+      "title": "Weizmann — Processus de candidature au MD-PhD",
+      "url": "https://www.weizmann.ac.il/mdphd/application-process",
+      "role": "Programme de médecine et recherche avec diplôme préalable requis.",
+      "checkedOn": "2026-11-24"
+    }
+  ]
+}

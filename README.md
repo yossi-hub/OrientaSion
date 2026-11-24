@@ -14,7 +14,9 @@ Puis ouvrir `http://127.0.0.1:4173`.
 
 ## Parcours disponibles
 
-- Recherche de cursus et d’établissements ; filtres combinables.
+- Répertoire prioritaire de 57 établissements : noms français/hébreux, anciens noms et alias, sources, sites officiels, filtres par type, localité et niveau d’études.
+- Fiche consultable pour chaque établissement, y compris lorsque les cursus restent à documenter.
+- Recherche de cursus ; filtres combinables.
 - Fiches cursus avec source officielle, rubrique admissions et accès au glossaire.
 - Favoris et comparaison de deux ou trois cursus.
 - Présentation de trois mehinot et programmes préparatoires académiques.
@@ -25,7 +27,7 @@ Puis ouvrir `http://127.0.0.1:4173`.
 
 ## Périmètre éditorial
 
-Les six établissements et dix cursus forment un échantillon documentaire, non exhaustif. Les liens officiels figurent dans `dist/content.js` et dans les fiches. Sources consultées le 24 novembre 2026 pour cette ébauche : cette date n’est pas une validation des règles par les établissements.
+Le répertoire contient 57 établissements distincts, dont 55 avec un premier cycle, et dix cursus détaillés. Les cursus restent un échantillon ; le recensement des établissements est rapproché des publications officielles CHE/CBS et de leurs sites institutionnels. Les liens officiels figurent dans `dist/content.js` et dans les fiches. Sources consultées le 24 novembre 2026 : cette date n’est pas une validation des règles par les établissements. Le total de 57 concorde avec le repère global CHE 2026–2027, sans constituer un export certifié du registre en temps réel. La ventilation éditoriale 11 universités / 29 collèges généraux / 17 enseignants diffère du repère CHE 11/28/18 à cause du traitement du changement de statut de Sakhnin, décrit comme général dans ce même rapport. Aucun établissement n’est supprimé ou créé pour forcer les catégories. Weizmann et Schechter sont conservés hors filtre post-bac. Les fusions et anciens noms sont documentés dans `research/`.
 
 Les critères détaillés d’admission des bacheliers français, tarifs, calendriers et reconnaissances entre préparations et cursus sont à documenter pour chaque rentrée. Les informations non établies sont indiquées comme telles. La maquette n’évalue pas les chances d’admission et n’invente aucun seuil.
 

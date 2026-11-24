@@ -1,0 +1,520 @@
+{
+  "checkedOn": "2026-11-24",
+  "total": 57,
+  "postbac": 55,
+  "bySubtype": {
+    "Université": 11,
+    "Mihlala académique": 29,
+    "Formation des enseignants": 17
+  },
+  "notes": [
+    "Périmètre : établissements universitaires du système de référence CHE/gouvernement israélien, comptés par institution et non par campus, faculté, école interne ou centre d’études. Aucun cursus nouveau n’est créé dans ce fichier.",
+    "Couverture contrôlée de onze établissements : dix proposent un premier cycle ; Weizmann est documenté avec postbac:false. Le total concorde avec les onze universités annoncées par le CHE pour 2026-2027 : dix financées et une hors budget.",
+    "La base n’est pas un export exhaustif d’un registre en temps réel : elle réconcilie le dictionnaire gouvernemental daté du 10 juin 2026, les décisions récentes du CHE et les sites institutionnels. Le tableau gouvernemental a été lu via son contenu indexé, car son affichage direct est dynamique.",
+    "Le dictionnaire de juin 2026 identifie les dix établissements historiques ; il ne suffit pas à refléter la transformation universitaire de Tel-Hai effective en 2026-2027. Les listes CHE de 2016/2018, rencontrées dans la recherche, n’ont pas été utilisées comme registre actuel.",
+    "Pour Kiryat Shmona / Tel-Hai, la décision CHE du 20 janvier 2026 accorde cinq ans de reconnaissance temporaire à partir de 2026-2027, jusqu’à la fin de 2030-2031. Le statut ne doit pas être présenté comme une reconnaissance permanente.",
+    "Reichman et l’ancien IDC Herzliya sont une seule institution. De même, Tel-Hai et sa nouvelle identité universitaire ne doivent pas apparaître deux fois.",
+    "Contrôle des doublons à appliquer dans le répertoire complet : WIZO Haïfa a été intégré à l’Université de Haïfa ; le campus de Katzrin anciennement Ohalo appartient à l’ensemble Tel-Hai. Ces noms historiques peuvent être conservés comme renvois, pas comme institutions universitaires supplémentaires.",
+    "Pour cohérence du schéma, kind et subtype valent Université pour Weizmann dans cette collection. Son nom reste Institut Weizmann ; le dictionnaire gouvernemental le décrit plus précisément comme un institut académique de recherche, et non comme une université à accès post-bac.",
+    "postbac:true signifie qu’un établissement propose des études de premier cycle ; cela ne signifie ni admission automatique d’un bachelier français, ni disponibilité de tous les cursus. Les programmes, sites d’enseignement, langues et critères de la rentrée souhaitée restent à examiner individuellement.",
+    "L’Université ouverte est incluse : son inscription initiale ouverte ne supprime pas les exigences académiques de progression, les prérequis des cours ou les conditions d’obtention du diplôme.",
+    "Les couleurs et initiales servent à l’interface ; elles ne prétendent pas reproduire les chartes graphiques officielles. checkedOn indique la date de consultation documentaire.",
+    "29 fiches de collèges académiques généraux candidats, dont 28 proposant un premier cycle et Schechter hors accès direct post-bac. Les universités et collèges de formation des enseignants sont gérés séparément.",
+    "Base nominative publique : CBS, communiqué de rentrée 2021/22 publié en 2022 (20 collèges financés et 9 non financés). Rapprochement avec les sites actuels : Tel-Hai est désormais traité dans le groupe universités ; Sakhnin ajouté à la suite du communiqué CHE d’octobre 2026.",
+    "Le CHE d’octobre 2026 annonce 28 collèges généraux et 18 collèges de formation des enseignants ; la réconciliation des identités produit ici 29 collèges généraux candidats. L’écart de répartition doit être explicité avec la liste des collèges enseignants et la transition de Sakhnin ; il ne justifie pas de supprimer un établissement actif vérifié pour forcer un total.",
+    "Ne pas compter des campus comme des établissements. Lev/Tal/Lustig=JCT ; les campus SCE=un établissement ; campus francophone Netanya=Netanya ; JMC/Hadassah=un établissement ; IAC/ancien Israel Academic College RamatGan=un établissement.",
+    "Les anciens MLA (Or Yehuda), collège Carmel, collège Society and Arts, Lander et ORT Hermelin ne sont pas ajoutés comme établissements autonomes actuels : ils apparaissent dans des listes historiques mais nécessitent un audit des fusions/cessations. Aucun diplôme ni admission n’est inféré de leur présence historique.",
+    "Les appellations françaises sont des traductions éditoriales destinées à la recherche. Le nom hébreu et les alias historiques servent au rapprochement.",
+    "La consultation d’un site ou la présence dans une liste institutionnelle ne valide pas chaque cursus ni son ouverture aux bacheliers français. Aucun seuil d’admission n’est fourni ici.",
+    "Les sites Sakhnin, Ono, Kinneret et Western Galilee ont connu des refus ou délais de lecture ; les identités/domaines sont recoupés avec les listes officielles et les pages institutionnelles indexées. L’état de chaque lien et les programmes seront à confirmer lors de l’enrichissement des cursus.",
+    {
+      "topic": "Périmètre et décompte",
+      "text": "17 établissements enseignants distincts ont été documentés dans ce fichier. La synthèse CHE d’octobre 2026 annonce 18 collèges d’éducation, dont 13 financés par le ministère de l’Éducation et 5 par le PBC. La différence résiduelle de 1 n’a pas été résolue : ne pas présenter cette liste comme une concordance nominative exhaustive avec les 18 agrégés.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf"
+      ]
+    },
+    {
+      "topic": "Sakhnin",
+      "text": "Sakhnin est exclu de ce fichier pour éviter un doublon avec les collèges académiques généraux. Le CHE d’octobre 2026 décrit son passage du financement du ministère de l’Éducation au PBC et son évolution vers un collège académique général. Plusieurs annuaires officiels plus anciens le classent encore en formation des enseignants.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+        "https://www.nite.org.il/institutions/?lang=en"
+      ]
+    },
+    {
+      "topic": "Levinsky et Wingate",
+      "text": "Comptés une seule fois sous Levinsky-Wingate. Le CHE a approuvé la fusion en 2021 ; le site institutionnel actuel décrit l’établissement unifié et ses campus. Le Wingate Institute et ses formations non académiques ne doivent pas être confondus avec le collège fusionné.",
+      "sources": [
+        "https://www.l-w.ac.il/about/",
+        "https://che.org.il/wp-content/uploads/2021/06/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-%D7%9E%D7%99%D7%95%D7%9D-27.4.2021.pdf"
+      ]
+    },
+    {
+      "topic": "Ohalo et Tel-Hai",
+      "text": "Ohalo n’est pas une entrée séparée : la fusion avec Tel-Hai est documentée avec prise d’effet au 1er janvier 2021. Le CHE2026 décrit ensuite la transformation de Tel-Hai en université de Kiryat Shmona en Galilée.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2021/08/22-%D7%AA%D7%9C-%D7%97%D7%99-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4.pdf",
+        "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf"
+      ]
+    },
+    {
+      "topic": "WIZO Haïfa",
+      "text": "Le Centre académique WIZO de design et d’éducation est exclu comme établissement indépendant : transfert de ses activités à l’Université de Haïfa documenté dans les comptes officiels. Les programmes doivent figurer sous l’Université de Haïfa. Les anciens annuaires peuvent encore afficher WIZO séparément.",
+      "sources": [
+        "https://che.org.il/wp-content/uploads/2025/09/5-%D7%97%D7%99%D7%A4%D7%94-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%9B%D7%A1%D7%A4%D7%99%D7%99%D7%9D-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%93.pdf"
+      ]
+    },
+    {
+      "topic": "Autres regroupements",
+      "text": "Herzog/Lifshitz, Orot Israël/Moreshet Yaakov et Emouna/Efrata sont chacun comptés une seule fois. Un marché du ministère de l’Éducation publié le 16 novembre 2026 emploie encore la désignation unifiée Emouna-Efrata.",
+      "sources": [
+        "https://www.cbs.gov.il/he/mediarelease/DocLib/2020/221/06_20_221b.pdf",
+        "https://mr.gov.il/ilgstorefront/he/p/4000624376"
+      ]
+    },
+    {
+      "topic": "Gordon et Shaanan",
+      "text": "Les deux sont conservés séparément. Des discussions historiques de rapprochement ne suffisent pas à établir une fusion réalisée ; leurs sites institutionnels présentent toujours leurs offres et règlements propres.",
+      "sources": [
+        "https://en.gordon.ac.il/ContentPage/Our_College",
+        "https://www.shaanan.ac.il/odot_hamichlala/al_hamichlala/"
+      ]
+    },
+    {
+      "topic": "ORT et enseignement de la technologie",
+      "text": "La chronologie institutionnelle du Séminaire des kibboutzim documente sa fusion avec l’ancienne Mihlala de formation à l’enseignement de la technologie. Aucun établissement B.Ed supplémentaire n’a été créé dans ce fichier sur la seule base d’un ancien libellé ORT/Singalovsky présent dans certains annuaires.",
+      "sources": [
+        "https://smkb.localtimeline.com/index.php?id=341&lang=he&option=com_localstory&tmpl=component&view=event"
+      ]
+    },
+    {
+      "topic": "Usage des sources",
+      "text": "registrySource est un guide officiel d’identification, mais certaines de ses dénominations restent historiques malgré sa date de mise à jour. currentSource documente l’offre ou l’identité actuelle de chaque institution. checkedOn signifie consultation le 24 novembre 2026, et non validation formelle du CHE pour chaque cursus. Les conditions bac français, langues, tarifs, ouvertures de candidature et campus exacts restent à compléter par programme.",
+      "sources": [
+        "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4"
+      ]
+    },
+    {
+      "topic": "Hors périmètre",
+      "text": "Les séminaires d’enseignement non académiques et les unités de formation continue ne sont pas recensés comme établissements distincts. Achva est un collège général avec une offre de formation des enseignants et relève du fichier des collèges généraux.",
+      "sources": [
+        "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+        "https://www.cbs.gov.il/he/publications/doclib/2019/4.shnatoneducation/st_eng04.pdf"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "che-rentree-2026-27",
+      "title": "CHE — Ouverture de l’année universitaire 2026-2027, octobre 2026",
+      "url": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+      "role": "Contrôle du total actuel : onze universités, dont dix financées et une hors budget ; transition de Tel-Hai.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "government-institutions-dictionary",
+      "title": "Dictionnaire gouvernemental des établissements d’enseignement supérieur",
+      "url": "https://data.gov.il/datasets/cio/data-dictionary-person/8cd6cfa8-56c1-4736-af0b-f890a8b599fc",
+      "updatedOn": "2026-06-10",
+      "role": "Noms et types des dix établissements historiques. Tableau consulté par son contenu indexé ; la page ouverte directement est dynamique.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "che-tel-hai-recognition",
+      "title": "CHE — Décision du 20 janvier 2026, reconnaissance universitaire temporaire de Kiryat Shmona en Galilée",
+      "url": "https://che.org.il/wp-content/uploads/2026/01/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-20.1.2026-1.pdf",
+      "role": "Décision 1300/14 : reconnaissance pour cinq ans à partir de 2026-2027.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "government-tel-hai-opening",
+      "title": "Gouvernement — Ouverture de l’année à la nouvelle université de Kiryat Shmona–Tel-Hai, 20 octobre 2026",
+      "url": "https://www.gov.il/he/pages/event-telchay201026",
+      "role": "Confirmation contemporaine de la mise en activité universitaire.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "nite-current-institutions",
+      "title": "NITE — Établissements destinataires des résultats",
+      "url": "https://www.nite.org.il/institutions/",
+      "role": "Contrôle complémentaire des dix universités avec accès au premier cycle ; ne remplace pas un registre d’accréditation.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-huji",
+      "title": "Université hébraïque de Jérusalem — site officiel",
+      "url": "https://en.huji.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-technion",
+      "title": "Technion — Institut israélien de technologie — site officiel",
+      "url": "https://www.technion.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-tau",
+      "title": "Université de Tel-Aviv — site officiel",
+      "url": "https://english.tau.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-bgu",
+      "title": "Université Ben-Gourion du Néguev — site officiel",
+      "url": "https://www.bgu.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-biu",
+      "title": "Université Bar-Ilan — site officiel",
+      "url": "https://www.biu.ac.il/en",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-haifa",
+      "title": "Université de Haïfa — site officiel",
+      "url": "https://www.haifa.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-ariel",
+      "title": "Université d’Ariel — site officiel",
+      "url": "https://www.ariel.ac.il/wp/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-reichman",
+      "title": "Université Reichman — site officiel",
+      "url": "https://www.runi.ac.il/en/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-open-university",
+      "title": "Université ouverte d’Israël — site officiel",
+      "url": "https://www.openu.ac.il/en/pages/default.aspx",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-tel-hai",
+      "title": "Université de Kiryat Shmona en Galilée — Tel-Hai — site officiel",
+      "url": "https://www.telhai.ac.il/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "site-weizmann",
+      "title": "Institut Weizmann des sciences — site officiel",
+      "url": "https://www.weizmann.ac.il/pages/",
+      "role": "Identité institutionnelle et présentation des études.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "bar-ilan-admissions",
+      "title": "Bar-Ilan — Candidatures aux études de premier cycle, master et doctorat",
+      "url": "https://www.biu.ac.il/en/registration-and-admission/information/registration",
+      "role": "Premier cycle et adresse à Ramat Gan.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "ariel-2026-brochure",
+      "title": "Ariel — Brochure des études de premier et deuxième cycles, 2026",
+      "url": "https://www.ariel.ac.il/wp/wp-content/uploads/2026/06/BA_2026_A5_MAY_newD-6.pdf",
+      "role": "Confirmation de formations de premier cycle actuelles.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "reichman-2026-27-brochure",
+      "title": "Reichman — Information pour les candidats au premier cycle 2026-2027",
+      "url": "https://www.runi.ac.il/media/pijdru43/ba-brochure-2026_web.pdf",
+      "role": "Confirmation de formations de premier cycle et de l’identité actuelle.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-admissions",
+      "title": "Université ouverte — Admissions",
+      "url": "https://www.openu.ac.il/en/pages/Admissions.aspx",
+      "role": "Inscription au premier cycle et distinction avec les études de master.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-study-structure",
+      "title": "Université ouverte — Organisation et structure des études",
+      "url": "https://academic.openu.ac.il/yedion/pages/studies-general.aspx",
+      "role": "Bachelors et inscription initiale ouverte, distincte des exigences des cours et du diplôme.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "open-university-address",
+      "title": "Université ouverte — Coordonnées",
+      "url": "https://www.openu.ac.il/contactus/pages/default.aspx",
+      "role": "Adresse du siège à Ra’anana.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tel-hai-about",
+      "title": "Tel-Hai / Université de Kiryat Shmona en Galilée — Présentation",
+      "url": "https://www.telhai.ac.il/%D7%A2%D7%9C_%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94",
+      "role": "Nom actuel, premiers cycles et organisation par campus, dont Katzrin.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "haifa-wizo-merger",
+      "title": "Université de Haïfa — Rapport du président 2024",
+      "url": "https://pr.haifa.ac.il/wp-content/uploads/2024/06/Presidents-Report-2024-FINAL-21_5-digital_pm.pdf",
+      "role": "Fusion avec le centre académique WIZO Haïfa et école de design.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "tel-hai-katzrin-ohalo",
+      "title": "Tel-Hai — Procès-verbal de visite de chantier, campus de Katzrin anciennement Ohalo",
+      "url": "https://www.telhai.ac.il/sites/default/files/2022-12/%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C%20%D7%A1%D7%99%D7%95%D7%A8%20%D7%A7%D7%91%D7%9C%D7%A0%D7%99%D7%9D%20%D7%99%D7%A9%20%D7%9C%D7%94%D7%92%D7%99%D7%A9%20%D7%97%D7%AA%D7%95%D7%9D%20%D7%A2%D7%9D%20%D7%9E%D7%A1%D7%9E%D7%9B%D7%99%20%D7%94%D7%9E%D7%9B%D7%A8%D7%96_0.pdf",
+      "role": "Document institutionnel identifiant Katzrin comme ancien Ohalo, pour éviter les doublons historiques.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "weizmann-no-bachelor-2026",
+      "title": "Weizmann — From student to scientist, publication de septembre 2026",
+      "url": "https://www.weizmann.ac.il/pages/index.php/news/magazine/from-student-to-scientist",
+      "role": "Indique explicitement que Weizmann ne propose pas de bachelor.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "id": "weizmann-mdphd-entry",
+      "title": "Weizmann — Processus de candidature au MD-PhD",
+      "url": "https://www.weizmann.ac.il/mdphd/application-process",
+      "role": "Programme de médecine et recherche avec diplôme préalable requis.",
+      "checkedOn": "2026-11-24"
+    },
+    {
+      "title": "CBS — liste nominative des collèges académiques, rentrée 2021/22",
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2022/331/06_22_331b.pdf",
+      "role": "Base nominative publique, historique explicitement datée."
+    },
+    {
+      "title": "CHE — ouverture de l’année académique 2026/27, octobre 2026",
+      "url": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+      "role": "Référence récente pour les effectifs institutionnels et transitions Tel-Hai/Sakhnin ; pages7 et15."
+    },
+    {
+      "title": "Bureau national Erasmus+ / CHE — établissements éligibles et contacts",
+      "url": "https://www.erasmusplus.org.il/international-offices-in-israeli-heis",
+      "role": "Recoupement institutionnel ; la liste de contacts n’est pas une liste exhaustive à jour des admissions."
+    },
+    {
+      "title": "JMC — histoire et nouveau nom",
+      "url": "https://www.jmc.ac.il/en/about/about/about-the-college/",
+      "role": "Confirme le changement de nom de Hadassah en2025."
+    },
+    {
+      "title": "Shaarei Mada uMishpat — site officiel",
+      "url": "https://www.mishpat.ac.il/",
+      "role": "Confirme le nouveau campus de Ra’anana et les premiers cycles."
+    },
+    {
+      "title": "Collège académique de Ramat Gan — premiers cycles",
+      "url": "https://iac.ac.il/bachelor-degree/",
+      "role": "Confirme l’activité et les cursus de premier cycle sous le nom actuel."
+    },
+    {
+      "title": "Institut Schechter — programmes",
+      "url": "https://schechter.edu/programs/schechter-institute-of-jewish-studies/",
+      "role": "Décrit les masters ; pas de premier cycle documenté pour accès post-bac."
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf",
+      "title": "CHE — Ouverture de l’année 2026-2027, octobre 2026",
+      "role": "Décompte agrégé 18 enseignants, passage de Sakhnin au secteur général, Tel-Hai université."
+    },
+    {
+      "url": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
+      "title": "Ministère de l’Alya et de l’Intégration — guide officiel des établissements",
+      "role": "Référentiel nominatif de départ, libellés historiques à réconcilier."
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2020/221/06_20_221b.pdf",
+      "title": "CBS — Établissements de l’enseignement supérieur, année 2018-2019",
+      "role": "Baseline officielle historique 21 collèges d’éducation et noms regroupés."
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/mediarelease/DocLib/2022/331/06_22_331b.pdf",
+      "title": "CBS — Enseignement supérieur 2021-2022",
+      "role": "Baseline20 et intégration d’Ohalo à Tel-Hai."
+    },
+    {
+      "url": "https://www.dyellin.ac.il/en/about_us_english",
+      "title": "David-Yellin — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "david-yellin"
+      ]
+    },
+    {
+      "url": "https://www.michlala.edu/about",
+      "title": "Michlala — Collège académique de Jérusalem — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "michlala-jerusalem"
+      ]
+    },
+    {
+      "url": "https://www.beitberl.ac.il/wp-content/uploads/2024/04/yedion-2022-23-1.pdf",
+      "title": "Beit Berl — Collège académique — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "beit-berl"
+      ]
+    },
+    {
+      "url": "https://www.l-w.ac.il/about/",
+      "title": "Levinsky-Wingate — Centre académique — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "levinsky-wingate"
+      ]
+    },
+    {
+      "url": "https://en.smkb.ac.il/academic-programs/faculty-of-humanities-and-social-sciences/",
+      "title": "Séminaire des kibboutzim — Collège d’éducation, de technologie et des arts — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "kibbutzim"
+      ]
+    },
+    {
+      "url": "https://www.oranim.ac.il/sites/heb/academic-units/Pages/default.aspx",
+      "title": "Oranim — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "oranim"
+      ]
+    },
+    {
+      "url": "https://en.gordon.ac.il/ContentPage/Our_College",
+      "title": "Gordon — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "gordon"
+      ]
+    },
+    {
+      "url": "https://www.talpiot.ac.il/first-degree/",
+      "title": "Talpiot — Collège académique d’éducation de Holon — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "talpiot"
+      ]
+    },
+    {
+      "url": "https://lp.arabcol.ac.il/",
+      "title": "Collège académique arabe d’éducation en Israël — Haïfa — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "arab-haifa"
+      ]
+    },
+    {
+      "url": "https://old.herzog.ac.il/english/about/",
+      "title": "Herzog — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "herzog"
+      ]
+    },
+    {
+      "url": "https://kaye.ac.il/en/about/",
+      "title": "Kaye — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "kaye"
+      ]
+    },
+    {
+      "url": "https://orot.ac.il/",
+      "title": "Orot Israël — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "orot-israel"
+      ]
+    },
+    {
+      "url": "https://mr.gov.il/ilgstorefront/he/p/4000624376",
+      "title": "Emouna-Efrata — Collège académique d’arts et d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "emuna-efrata"
+      ]
+    },
+    {
+      "url": "https://www.hemdat.ac.il/%D7%9E%D7%95%D7%A2%D7%9E%D7%93%D7%99%D7%9D/",
+      "title": "Hemdat — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "hemdat"
+      ]
+    },
+    {
+      "url": "https://www.shaanan.ac.il/odot_hamichlala/al_hamichlala/",
+      "title": "Shaanan — Collège académique religieux d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "shaanan"
+      ]
+    },
+    {
+      "url": "https://michlala.washington.ac.il/college/",
+      "title": "Givat Washington — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "givat-washington"
+      ]
+    },
+    {
+      "url": "https://site.qsm.ac.il/en/about-the-college/",
+      "title": "Al-Qasemi — Collège académique d’éducation — source institutionnelle actuelle",
+      "role": "Identité, offre académique ou regroupement.",
+      "institutionIds": [
+        "al-qasemi"
+      ]
+    },
+    {
+      "url": "https://www.nite.org.il/institutions/?lang=en",
+      "title": "Source officielle ou institutionnelle complémentaire — Sakhnin",
+      "role": "Sakhnin"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2021/06/%D7%94%D7%97%D7%9C%D7%98%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%A6%D7%94-%D7%9E%D7%99%D7%A9%D7%99%D7%91%D7%AA%D7%94-%D7%9E%D7%99%D7%95%D7%9D-27.4.2021.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Levinsky et Wingate",
+      "role": "Levinsky et Wingate"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2021/08/22-%D7%AA%D7%9C-%D7%97%D7%99-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Ohalo et Tel-Hai",
+      "role": "Ohalo et Tel-Hai"
+    },
+    {
+      "url": "https://che.org.il/wp-content/uploads/2025/09/5-%D7%97%D7%99%D7%A4%D7%94-%D7%93%D7%95%D7%97%D7%95%D7%AA-%D7%9B%D7%A1%D7%A4%D7%99%D7%99%D7%9D-%D7%97%D7%AA%D7%95%D7%9E%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%93.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — WIZO Haïfa",
+      "role": "WIZO Haïfa"
+    },
+    {
+      "url": "https://smkb.localtimeline.com/index.php?id=341&lang=he&option=com_localstory&tmpl=component&view=event",
+      "title": "Source officielle ou institutionnelle complémentaire — ORT et enseignement de la technologie",
+      "role": "ORT et enseignement de la technologie"
+    },
+    {
+      "url": "https://www.cbs.gov.il/he/publications/doclib/2019/4.shnatoneducation/st_eng04.pdf",
+      "title": "Source officielle ou institutionnelle complémentaire — Hors périmètre",
+      "role": "Hors périmètre"
+    }
+  ]
+}
