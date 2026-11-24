@@ -1,4 +1,4 @@
-/* Catalogue publié : 56 établissements, dont 54 avec premier cycle.
+/* Catalogue publié : 55 établissements, dont 53 avec premier cycle.
  * Sources consultées le 24 novembre 2026 ; base de référence conservée dans research/.
  * Les cursus documentés restent un échantillon. Les critères français, tarifs
  * et calendriers doivent être vérifiés pour la rentrée et le cursus visés.
@@ -1322,33 +1322,6 @@ window.OS_DATA = {
       ]
     },
     {
-      "id": "arab-haifa",
-      "name": "Collège académique arabe d’éducation en Israël — Haïfa",
-      "short": "Collège arabe de Haïfa",
-      "kind": "Mihlala",
-      "city": "Haïfa",
-      "initials": "AH",
-      "color": "#6C788A",
-      "description": "Établissement de formation des enseignants à Haïfa proposant des parcours en éducation, langues et sciences.",
-      "url": "https://arabcol.ac.il/",
-      "hebrew": "המכללה האקדמית הערבית לחינוך בישראל — חיפה",
-      "aliases": [
-        "The Academic Arab College for Education in Israel–Haifa",
-        "Arab Academic College",
-        "arabcol",
-        "המכללה הערבית לחינוך"
-      ],
-      "subtype": "Formation des enseignants",
-      "postbac": true,
-      "scopeNote": "L’adéquation linguistique, les publics admis et la prise en compte d’un bac français sont à confirmer auprès du programme.",
-      "registrySource": "https://www.gov.il/he/pages/institutions_and_student_programs?chapterIndex=4",
-      "checkedOn": "2026-11-24",
-      "currentSource": "https://lp.arabcol.ac.il/",
-      "locations": [
-        "Haïfa"
-      ]
-    },
-    {
       "id": "herzog",
       "name": "Herzog — Collège académique d’éducation",
       "short": "Herzog",
@@ -1926,14 +1899,15 @@ window.OS_DATA = {
     "academicYear": "2026–2027",
     "officialExpectedTotal": 57,
     "registrySource": "https://che.org.il/wp-content/uploads/2026/10/%D7%94%D7%95%D7%93%D7%A2%D7%94-%D7%9C%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%A4%D7%AA%D7%99%D7%97%D7%AA-%D7%AA%D7%A9%D7%A4%D7%96.pdf#page=15",
-    "method": "Base documentaire de 57 établissements rapprochée des sources CHE/CBS et des sites institutionnels. Le catalogue publié présente une sélection éditoriale de 56 établissements, dont 54 avec premier cycle. Le repère CHE de 57 est conservé à titre de comparaison, sans certification de couverture intégrale.",
-    "classificationNote": "Le CHE 2026 indique 11 universités, 28 collèges généraux et 18 collèges enseignants. La base éditoriale avant sélection classe Sakhnin selon sa transition vers une mihlala générale : 11, 29 et 17. Après le retrait demandé d’Al-Qasemi, le catalogue présente 11 universités, 29 collèges généraux et 16 établissements de formation des enseignants.",
+    "method": "Base documentaire de 57 établissements rapprochée des sources CHE/CBS et des sites institutionnels. Le catalogue publié présente une sélection éditoriale de 55 établissements, dont 53 avec premier cycle. Le repère CHE de 57 est conservé à titre de comparaison, sans certification de couverture intégrale.",
+    "classificationNote": "Le CHE 2026 indique 11 universités, 28 collèges généraux et 18 collèges enseignants. La base éditoriale avant sélection classe Sakhnin selon sa transition vers une mihlala générale : 11, 29 et 17. Après les retraits demandés d’Al-Qasemi et du Collège académique arabe d’éducation de Haïfa, le catalogue présente 11 universités, 29 collèges généraux et 15 établissements de formation des enseignants.",
     "outOfPostbac": [
       "weizmann",
       "schechter"
     ],
     "editorialExcludedIds": [
-      "al-qasemi"
+      "al-qasemi",
+      "arab-haifa"
     ]
   }
 };
