@@ -359,3 +359,47 @@ dialog::backdrop { background: #2e2e2e75; }
   .course-card h3, .institution-card h3 { font-size: 20px; }
   .directory-summary { grid-template-columns: repeat(3, 1fr); }
 }
+
+/* Parcours d'un établissement, avec regroupement par faculté. */
+.institution-coverage-panel { background: var(--blue-soft); border: 1px solid #cbdff4; border-radius: 14px; padding: 20px; margin: 20px 0; }
+.institution-coverage-panel h3 { font-size: 24px; margin: 0 0 10px; }
+.institution-coverage-panel p { font-size: 15px; }
+.institution-coverage-panel details { margin-top: 15px; font-size: 14px; }
+.institution-coverage-panel summary { cursor: pointer; font-weight: 500; }
+.institution-coverage-panel ul { padding-left: 20px; margin-bottom: 0; }
+.institution-coverage-panel li + li { margin-top: 8px; }
+.institution-course-search { display: block; margin: 20px 0 15px; }
+.institution-course-search input { padding-right: 15px; }
+.institution-list-count { color: var(--muted); font-size: 14px; margin: 18px 0; }
+.institution-faculty { margin-top: 25px; }
+.institution-faculty h4 { font: 600 21px/1.25 var(--font-title); margin: 0 0 12px; }
+.institution-faculty h4 span { display: inline-block; background: var(--blue-soft); color: var(--blue); padding: 3px 8px; border-radius: 20px; font: 500 13px/1.4 var(--font-body); vertical-align: middle; margin-left: 6px; }
+.institution-course-list strong { line-height: 1.45; }
+.institution-course-list small { display: block; margin-top: 4px; }
+.institution-catalogue-banner { display: flex; align-items: center; gap: 16px; background: white; border: 1px solid var(--line); border-left: 5px solid var(--blue); border-radius: 14px; padding: 20px; margin: 0 0 22px; }
+.institution-catalogue-banner > div { flex: 1; min-width: 0; }
+.institution-catalogue-banner h2 { font-size: 25px; margin: 0 0 5px; }
+.institution-catalogue-banner p { font-size: 14px; color: var(--muted); margin: 0; }
+.programme-source { margin-top: 12px; }
+.dialog-header .course-original { color: var(--muted); font: 400 17px/1.6 Arial,sans-serif; margin: 0 0 12px; text-align: left; }
+@media(max-width:760px) {
+  .institution-catalogue-banner { flex-wrap: wrap; padding: 17px; }
+  .institution-catalogue-banner h2 { font-size: 23px; }
+  .institution-catalogue-banner .button { margin-left: 0; }
+  .institution-coverage-panel { padding: 17px; }
+  .institution-faculty h4 { font-size: 21px; }
+}
+
+.institution-pathways { margin: 26px 0; border: 1px solid var(--line); padding: 20px; border-radius: 14px; }
+.institution-pathways h3 { font-size: 24px; }
+.institution-pathways article + article { border-top: 1px solid var(--line); padding-top: 18px; margin-top: 18px; }
+.institution-pathways h4 { margin: 0 0 8px; font-size: 16px; font-weight: 600; }
+.institution-pathways p { font-size: 14px; }
+.course-kind { font-size: 13px; color: var(--blue); margin: 0 0 16px; }
+.course-options li { margin-bottom: 15px; }
+.course-options li p { margin: 6px 0; }
+
+.institution-source-details { margin: 18px 0; border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; font-size: 14px; }
+.institution-source-details > summary { cursor: pointer; color: var(--blue); font-weight: 500; }
+.institution-source-details .institution-coverage-panel { margin-bottom: 5px; }
+.institution-courses > .button { margin-bottom: 0; }

@@ -1,0 +1,1459 @@
+{
+  "checkedOn": "2026-11-25",
+  "academicYear": "2026–2027",
+  "publishedCount": 61,
+  "coverage": "Programmes, variantes et options nommées ; pas un décompte de diplômes indépendants ou de choix d’inscription.",
+  "tableInventory": {
+    "academicYear": "2026/2027",
+    "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+    "catalogueUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf",
+    "verifiedDate": "2026-11-25",
+    "method": "Transcription visuelle des deux pages du tableau officiel novembre2026, correspondant aux pages imprimées28–29 du catalogue octobre2026. Dédoublonnage interfacultés par diplôme/parcours.",
+    "uniqueTablePrograms": 55,
+    "proposedNewApplicantTablePrograms": 54,
+    "programs": [
+      {
+        "id": "civil",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה אזרחית",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie civil",
+        "hebrewTitle": "הנדסה אזרחית",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "civil-structures",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה אזרחית-מבנים",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie civil : structures",
+        "hebrewTitle": "הנדסה אזרחית-הנדסת מבנים",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "civil-transport",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה אזרחית-הנדסת תחבורה",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie civil : transports",
+        "hebrewTitle": "הנדסה אזרחית-הנדסת תחבורה",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "civil-water",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה אזרחית-הנדסת מים",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie civil : eau",
+        "hebrewTitle": "הנדסה אזרחית-הנדסת מים",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "civil-management",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה אזרחית-ניהול ובנייה",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie civil : gestion et construction",
+        "hebrewTitle": "הנדסה אזרחית-ניהול ובנייה",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "environmental",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת הסביבה",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie de l’environnement",
+        "hebrewTitle": "הנדסת הסביבה",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "mapping-engineering",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת מיפוי וגיאו-אינפורמציה",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie de la géomatique et géoinformation",
+        "hebrewTitle": "הנדסת מיפוי וגיאו-אינפורמציה",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "mapping-sciences",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במיפוי וגיאו-אינפורמציה",
+        "facultiesHe": [
+          "הנדסה אזרחית וסביבתית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Géomatique et géoinformation",
+        "hebrewTitle": "מיפוי וגיאו-אינפורמציה",
+        "facultyFr": "Génie civil et environnemental",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "mechanical",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת מכונות",
+        "facultiesHe": [
+          "הנדסת מכונות"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie mécanique",
+        "hebrewTitle": "הנדסת מכונות",
+        "facultyFr": "Génie mécanique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "electrical",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חשמל",
+        "facultiesHe": [
+          "הנדסת חשמל ומחשבים"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie électrique",
+        "hebrewTitle": "הנדסת חשמל",
+        "facultyFr": "Génie électrique et informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "computer-engineering",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת מחשבים",
+        "facultiesHe": [
+          "הנדסת חשמל ומחשבים",
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28,
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie informatique",
+        "hebrewTitle": "הנדסת מחשבים",
+        "facultyFr": "Génie électrique et informatique / Informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": [
+          "Tableau p28 inverse les intitulés de diplômes Génie informatique / Génie logiciel. Inventaire retient les diplômes corrects, confirmés par p29 et chapitre CS252–253."
+        ]
+      },
+      {
+        "id": "computer-software",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת מחשבים ותוכנה",
+        "facultiesHe": [
+          "הנדסת חשמל ומחשבים"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie informatique et logiciel",
+        "hebrewTitle": "הנדסת מחשבים ותוכנה",
+        "facultyFr": "Génie électrique et informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "electrical-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חשמל ובפיזיקה",
+        "facultiesHe": [
+          "הנדסת חשמל ומחשבים",
+          "פיזיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie électrique et physique",
+        "hebrewTitle": "הנדסת חשמל ופיזיקה",
+        "facultyFr": "Génie électrique et informatique / Physique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "chemical",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה כימית",
+        "facultiesHe": [
+          "הנדסה כימית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie chimique",
+        "hebrewTitle": "הנדסה כימית",
+        "facultyFr": "Génie chimique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biochemical",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה ביוכימית",
+        "facultiesHe": [
+          "הנדסה כימית"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie biochimique",
+        "hebrewTitle": "הנדסה ביוכימית",
+        "facultyFr": "Génie chimique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biotechnology-food",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת ביוטכנולוגיה ומזון",
+        "facultiesHe": [
+          "הנדסת ביוטכנולוגיה ומזון"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des biotechnologies et de l’alimentation",
+        "hebrewTitle": "הנדסת ביוטכנולוגיה ומזון",
+        "facultyFr": "Biotechnologies et génie alimentaire",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "aerospace",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת אוירונוטיקה וחלל",
+        "facultiesHe": [
+          "הנדסת אוירונוטיקה וחלל"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie aéronautique et spatial",
+        "hebrewTitle": "הנדסת אוירונוטיקה וחלל",
+        "facultyFr": "Génie aéronautique et spatial",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "aerospace-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת אוירונוטיקה וחלל ובפיזיקה במתכונת דו-חוגית",
+        "facultiesHe": [
+          "הנדסת אוירונוטיקה וחלל",
+          "פיזיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie aéronautique et spatial et physique",
+        "hebrewTitle": "הנדסת אוירונוטיקה וחלל ובפיזיקה במתכונת דו-חוגית",
+        "facultyFr": "Génie aéronautique et spatial / Physique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": [
+          "Formulation diplôme légèrement différente entre doublons des facultés (mוסמך pour ensemble / מוסמך+בוגר) ; un seul programme combiné, B.Sc, 4ans."
+        ]
+      },
+      {
+        "id": "industrial-management",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת תעשיה וניהול",
+        "facultiesHe": [
+          "מדעי הנתונים וההחלטות"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie industriel et management",
+        "hebrewTitle": "הנדסת תעשיה וניהול",
+        "facultyFr": "Sciences des données et de la décision",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "information-systems",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת מערכות מידע",
+        "facultiesHe": [
+          "מדעי הנתונים וההחלטות"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des systèmes d’information",
+        "hebrewTitle": "הנדסת מערכות מידע",
+        "facultyFr": "Sciences des données et de la décision",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "data-information",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת נתונים ומידע",
+        "facultiesHe": [
+          "מדעי הנתונים וההחלטות"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Ingénierie des données et de l’information",
+        "hebrewTitle": "הנדסת נתונים ומידע",
+        "facultyFr": "Sciences des données et de la décision",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "mathematics",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במתמטיקה",
+        "facultiesHe": [
+          "מתמטיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Mathématiques",
+        "hebrewTitle": "מתמטיקה (תלת-שנתי)",
+        "facultyFr": "Mathématiques",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "applied-mathematics",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במתמטיקה יישומית",
+        "facultiesHe": [
+          "מתמטיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Mathématiques appliquées",
+        "hebrewTitle": "מתמטיקה יישומית (תלת-שנתי)",
+        "facultyFr": "Mathématiques",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "math-cs-4",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים במתמטיקה עם מדעי המחשב",
+        "facultiesHe": [
+          "מתמטיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Mathématiques avec informatique : 4 ans",
+        "hebrewTitle": "מתמטיקה עם מדעי המחשב (ארבע-שנתי)",
+        "facultyFr": "Mathématiques",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "math-cs-3",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במתמטיקה עם מדעי המחשב",
+        "facultiesHe": [
+          "מתמטיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Mathématiques avec informatique : 3 ans",
+        "hebrewTitle": "מתמטיקה עם מדעי המחשב (תלת-שנתי)",
+        "facultyFr": "Mathématiques",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "math-physics",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במתמטיקה-פיזיקה",
+        "facultiesHe": [
+          "מתמטיקה",
+          "פיזיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Mathématiques et physique",
+        "hebrewTitle": "מתמטיקה-פיזיקה",
+        "facultyFr": "Mathématiques / Physique",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "cs-mathematics",
+        "durationYearsTable": 3.5,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במדעי המחשב ובמתמטיקה",
+        "facultiesHe": [
+          "מתמטיקה",
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28,
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Informatique et mathématiques",
+        "hebrewTitle": "מדעי המחשב ומתמטיקה",
+        "facultyFr": "Mathématiques / Informatique",
+        "duration": "3.5 ans (tableau 2026–2027)",
+        "notes": [
+          "3,5ans dans tableau ; chapitre CS pp252–253 dit 3ans."
+        ]
+      },
+      {
+        "id": "physics-3",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים בפיזיקה",
+        "facultiesHe": [
+          "פיזיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Physique : 3 ans",
+        "hebrewTitle": "פיזיקה (תלת-שנתי)",
+        "facultyFr": "Physique",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "physics-4",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בפיזיקה",
+        "facultiesHe": [
+          "פיזיקה"
+        ],
+        "cataloguePages": [
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Physique : 4 ans",
+        "hebrewTitle": "פיזיקה (ארבע-שנתי)",
+        "facultyFr": "Physique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biomedical-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה ביו-רפואית ובפיזיקה",
+        "facultiesHe": [
+          "פיזיקה",
+          "הנדסה ביו-רפואית"
+        ],
+        "cataloguePages": [
+          28,
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie biomédical et physique",
+        "hebrewTitle": "הנדסה ביו-רפואית ופיזיקה",
+        "facultyFr": "Physique / Génie biomédical",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "cs-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים במדעי המחשב ובפיזיקה",
+        "facultiesHe": [
+          "פיזיקה",
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28,
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Informatique et physique",
+        "hebrewTitle": "מדעי המחשב ופיזיקה",
+        "facultyFr": "Physique / Informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "materials-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חומרים ובפיזיקה",
+        "facultiesHe": [
+          "פיזיקה",
+          "מדע והנדסה של חומרים"
+        ],
+        "cataloguePages": [
+          28,
+          29
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des matériaux et physique",
+        "hebrewTitle": "הנדסת חומרים ופיזיקה",
+        "facultyFr": "Physique / Science et génie des matériaux",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "chemistry",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים בכימיה",
+        "facultiesHe": [
+          "כימיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Chimie",
+        "hebrewTitle": "כימיה",
+        "facultyFr": "Chimie",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biology-chemistry",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים בדו חוגי בביולוגיה וכימיה",
+        "facultiesHe": [
+          "כימיה",
+          "ביולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Biologie et chimie",
+        "hebrewTitle": "דו חוגי בביולוגיה וכימיה",
+        "facultyFr": "Chimie / Biologie",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "materials-chemistry",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חומרים ובכימיה",
+        "facultiesHe": [
+          "כימיה",
+          "מדע והנדסה של חומרים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des matériaux et chimie",
+        "hebrewTitle": "הנדסת חומרים וכימיה",
+        "facultyFr": "Chimie / Science et génie des matériaux",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biology",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים בביולוגיה",
+        "facultiesHe": [
+          "ביולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Biologie",
+        "hebrewTitle": "ביולוגיה",
+        "facultyFr": "Biologie",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "architecture-sciences",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים במדעי הארכיטקטורה",
+        "facultiesHe": [
+          "ארכיטקטורה ובינוי ערים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Sciences de l’architecture",
+        "hebrewTitle": "ארכיטקטורה",
+        "facultyFr": "Architecture et urbanisme",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "landscape-architecture",
+        "durationYearsTable": 4.0,
+        "degree": "B.L.A.",
+        "degreeHe": "מוסמך לאדריכלות נוף",
+        "facultiesHe": [
+          "ארכיטקטורה ובינוי ערים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Architecture paysagère",
+        "hebrewTitle": "אדריכלות נוף",
+        "facultyFr": "Architecture et urbanisme",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-math",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (מתמטיקה)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement des mathématiques",
+        "hebrewTitle": "הוראת המתמטיקה",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-physics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (פיזיקה)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de la physique",
+        "hebrewTitle": "הוראת הפיזיקה",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-chemistry",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (כימיה)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de la chimie",
+        "hebrewTitle": "הוראת הכימיה",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-biology",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (ביולוגיה ומדעי הסביבה)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de la biologie et des sciences de l’environnement",
+        "hebrewTitle": "הוראת הביולוגיה ומדעי הסביבה",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-cs",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (מדעי המחשב)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de l’informatique",
+        "hebrewTitle": "הוראת מדעי המחשב",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-mechanics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (טכנולוגיה-מכונות)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de la technologie et de la mécanique",
+        "hebrewTitle": "הוראת טכנולוגיה-מכונות",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "education-electronics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.Ed.",
+        "degreeHe": "מוסמך למדעים בהוראה (אלקטרוניקה-חשמל)",
+        "facultiesHe": [
+          "חינוך למדע וטכנולוגיה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Enseignement de l’électronique et de l’électricité",
+        "hebrewTitle": "הוראת אלקטרוניקה-חשמל",
+        "facultyFr": "Éducation scientifique et technologique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "cs-3",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במדעי המחשב",
+        "facultiesHe": [
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Informatique : 3 ans",
+        "hebrewTitle": "מדעי המחשב (תלת-שנתי)",
+        "facultyFr": "Informatique",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "cs-4",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים במדעי המחשב",
+        "facultiesHe": [
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Informatique : 4 ans",
+        "hebrewTitle": "מדעי המחשב (ארבע-שנתי)",
+        "facultyFr": "Informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "cs-bioinformatics",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים במדעי המחשב",
+        "facultiesHe": [
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Informatique, spécialisation bioinformatique",
+        "hebrewTitle": "מדעי המחשב עם התמקדות בביואינפורמטיקה",
+        "facultyFr": "Informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": [
+          "4ans et מוסמך dans tableau ; chapitre CS pp252–253 place désormais bioinformatique sous parcours 3ans et indique בוגר. Conflit de sources au sein du même catalogue."
+        ]
+      },
+      {
+        "id": "software-engineering",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת תוכנה",
+        "facultiesHe": [
+          "מדעי המחשב"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie logiciel",
+        "hebrewTitle": "הנדסת תוכנה",
+        "facultyFr": "Informatique",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "medical-sciences",
+        "durationYearsTable": 3.0,
+        "degree": "B.Sc.",
+        "degreeHe": "בוגר למדעים במדעי הרפואה-מגמת רפואה",
+        "facultiesHe": [
+          "רפואה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Sciences médicales, étape préclinique",
+        "hebrewTitle": "מדעי הרפואה (תלת-שנתי)",
+        "facultyFr": "Médecine",
+        "duration": "3 ans (tableau 2026–2027)",
+        "notes": [
+          "B.Sc3ans est étape préclinique du cursus médecine, pas nécessairement une candidature indépendante. Ne pas présenter comme accès autonome sans confirmation."
+        ]
+      },
+      {
+        "id": "medicine",
+        "durationYearsTable": 6.0,
+        "degree": "M.D.",
+        "degreeHe": "דוקטור לרפואה",
+        "facultiesHe": [
+          "רפואה"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Médecine",
+        "hebrewTitle": "רפואה",
+        "facultyFr": "Médecine",
+        "duration": "6 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "materials",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חומרים",
+        "facultiesHe": [
+          "מדע והנדסה של חומרים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des matériaux",
+        "hebrewTitle": "הנדסת חומרים",
+        "facultyFr": "Science et génie des matériaux",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "materials-biology",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסת חומרים ובביולוגיה",
+        "facultiesHe": [
+          "מדע והנדסה של חומרים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie des matériaux et biologie",
+        "hebrewTitle": "הנדסת חומרים וביולוגיה",
+        "facultyFr": "Science et génie des matériaux",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      },
+      {
+        "id": "biomedical",
+        "durationYearsTable": 4.0,
+        "degree": "B.Sc.",
+        "degreeHe": "מוסמך למדעים בהנדסה ביו-רפואית",
+        "facultiesHe": [
+          "הנדסה ביו-רפואית"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": true,
+        "frenchTitle": "Génie biomédical",
+        "hebrewTitle": "הנדסה ביו-רפואית",
+        "facultyFr": "Génie biomédical",
+        "duration": "4 ans (tableau 2026–2027)",
+        "notes": []
+      }
+    ],
+    "sourceConflicts": [
+      {
+        "programId": "architecture-legacy",
+        "issue": "Le tableau conserve B.Arch5ans. Le chapitre actuel p224 décrit uniquement B.Sc4ans et B.L.A4ans et le parcours professionnel B.Sc+M.Arch1. Exclusion proposée comme ancien régime ; preuve de fermeture explicite à compléter.",
+        "cataloguePages": [
+          224
+        ]
+      },
+      {
+        "programId": "cs-bioinformatics",
+        "issue": "4ans et מוסמך dans tableau ; chapitre CS pp252–253 place désormais bioinformatique sous parcours 3ans et indique בוגר. Conflit de sources au sein du même catalogue.",
+        "cataloguePages": [
+          28,
+          252,
+          253
+        ]
+      },
+      {
+        "programId": "cs-mathematics",
+        "issue": "3,5ans dans tableau ; chapitre CS pp252–253 dit 3ans.",
+        "cataloguePages": [
+          28,
+          29,
+          252,
+          253
+        ]
+      },
+      {
+        "programId": "computer-engineering",
+        "issue": "Tableau p28 inverse les intitulés de diplômes Génie informatique / Génie logiciel. Inventaire retient les diplômes corrects, confirmés par p29 et chapitre CS252–253.",
+        "cataloguePages": [
+          28,
+          29,
+          252,
+          253
+        ]
+      },
+      {
+        "programId": "medical-sciences",
+        "issue": "B.Sc3ans est étape préclinique du cursus médecine, pas nécessairement une candidature indépendante. Ne pas présenter comme accès autonome sans confirmation.",
+        "cataloguePages": [
+          28,
+          278
+        ]
+      },
+      {
+        "programId": "aerospace-physics",
+        "issue": "Formulation diplôme légèrement différente entre doublons des facultés (mוסמך pour ensemble / מוסמך+בוגר) ; un seul programme combiné, B.Sc, 4ans.",
+        "cataloguePages": [
+          29
+        ]
+      }
+    ],
+    "excluded": [
+      {
+        "nameHe": "חוג לאחר תואר בחינוך למדע וטכנולוגיה",
+        "nameFr": "Formation complémentaire en éducation scientifique et technologique après un premier diplôme",
+        "durationYears": 1,
+        "reason": "Nécessite un diplôme préalable ; hors inventaire post-bac.",
+        "cataloguePages": [
+          28
+        ]
+      },
+      {
+        "id": "architecture-legacy",
+        "durationYearsTable": 5.0,
+        "degree": "B.Arch.",
+        "degreeHe": "מוסמך לארכיטקטורה",
+        "facultiesHe": [
+          "ארכיטקטורה ובינוי ערים"
+        ],
+        "cataloguePages": [
+          28
+        ],
+        "sourceUrl": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "tableIncluded": true,
+        "includeForNewApplicants": false,
+        "frenchTitle": "Architecture : ancien cursus de 5 ans",
+        "hebrewTitle": "ארכיטקטורה",
+        "facultyFr": "Architecture et urbanisme",
+        "duration": "5 ans (tableau 2026–2027)",
+        "notes": [
+          "Le tableau conserve B.Arch5ans. Le chapitre actuel p224 décrit uniquement B.Sc4ans et B.L.A4ans et le parcours professionnel B.Sc+M.Arch1. Exclusion proposée comme ancien régime ; preuve de fermeture explicite à compléter."
+        ],
+        "reason": "Ancien B.Arch5ans conservé dans tableau synthétique ; chapitre actuel p224 décrit transition vers B.Sc4ans puis M.Arch1 et n’annonce que deux cursus de premier cycle B.Sc et B.L.A. Hors nouveaux parcours présentés."
+      }
+    ],
+    "count": 54,
+    "complementary": [
+      {
+        "reason": "Mentionné en note du tableau et décrit dans chapitre CS ; absent des lignes principales. Durée globale à vérifier avant publication.",
+        "cataloguePages": [
+          28,
+          252,
+          253
+        ],
+        "hebrewTitle": "רפואה ומדעי המחשב",
+        "frenchTitle": "Médecine et informatique : double diplôme"
+      },
+      {
+        "reason": "Mentionné en note du tableau et décrit chapitre biomédical : 5ans pour B.Sc génie biomédical+B.Sc sciences médicales puis poursuite clinique MD. Durée MD globale à vérifier.",
+        "cataloguePages": [
+          28,
+          308
+        ],
+        "hebrewTitle": "הנדסה ביו-רפואית ורפואה",
+        "frenchTitle": "Génie biomédical et médecine : double diplôme"
+      },
+      {
+        "id": "medicine-data-science",
+        "hebrewTitle": "רפואה והנדסת נתונים ומידע",
+        "frenchTitle": "Médecine et ingénierie des données et de l’information",
+        "facultyFr": "Médecine / Sciences des données et de la décision",
+        "reason": "Complément confirmé par agent DDS auprès du parent ; durée et source détaillée à ajouter par parent, pas de déduction depuis tableau synthétique."
+      },
+      {
+        "id": "electrical-mathematics-concentration",
+        "hebrewTitle": "הנדסת חשמל ומתמטיקה",
+        "frenchTitle": "Génie électrique avec mathématiques",
+        "facultyFr": "Génie électrique et informatique / Mathématiques",
+        "reason": "Cinquième voie ECE confirmée au parent ; concentration à distinguer d’un diplôme de premier cycle autonome, durée et diplôme exacts à compléter."
+      }
+    ]
+  },
+  "supplementaryPublished": [
+    {
+      "id": "technion-electrical-mathematics",
+      "title": "Génie électrique — concentration mathématiques",
+      "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת חשמל ומתמטיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc. génie électrique",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une voie du diplôme de génie électrique avec concentration en mathématiques. Elle conduit à un B.Sc. en génie électrique et à une attestation de concentration, sans second B.Sc. de mathématiques.",
+      "subjects": [
+        "Génie électrique",
+        "Mathématiques",
+        "Sciences de l’ingénieur"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/electrical-engineering-mathematics-program/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Concentration du B.Sc. génie électrique"
+    },
+    {
+      "id": "technion-applied-math-electrical",
+      "title": "Mathématiques appliquées — concentration génie électrique et informatique",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה שימושית במגמת הנדסת חשמל ומחשבים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc. mathématiques appliquées",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une voie de mathématiques appliquées avec concentration en génie électrique et informatique. À distinguer du diplôme de génie électrique avec concentration mathématiques.",
+      "subjects": [
+        "Mathématiques appliquées",
+        "Génie électrique",
+        "Informatique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=182",
+      "checkedOn": "2026-11-25",
+      "optionType": "Concentration du B.Sc. mathématiques appliquées",
+      "note": "Le catalogue décrit un programme de 157 crédits et une admission annuelle au semestre d’hiver. L’attestation de concentration accompagne le B.Sc. de mathématiques appliquées."
+    },
+    {
+      "id": "technion-data-mathematics",
+      "title": "Ingénierie des données et de l’information et mathématiques",
+      "institution": "technion",
+      "faculty": "Sciences des données et de la décision",
+      "originalTitle": "הנדסת נתונים ומידע ומתמטיקה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. — programme conjoint",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Programme conjoint associant ingénierie des données et mathématiques, distinct du diplôme simple d’ingénierie des données et de l’information.",
+      "subjects": [
+        "Ingénierie des données",
+        "Mathématiques",
+        "Information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/data-and-information-engineering-and-mathematics/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-medicine-biomedical",
+      "title": "Médecine et génie biomédical — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה והנדסה ביו-רפואית",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et génie biomédical. La phase conduisant aux deux premiers diplômes est distincte de la formation clinique ultérieure du médecin.",
+      "subjects": [
+        "Sciences médicales",
+        "Génie biomédical",
+        "Sciences du vivant et technologies"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://md.technion.ac.il/קטלוג-תשפז/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-medicine-computer-science",
+      "title": "Médecine et informatique — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה ומדעי המחשב",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et informatique. Il est destiné aux étudiants admis dans la voie médicale et soumis aux règles propres du programme conjoint.",
+      "subjects": [
+        "Sciences médicales",
+        "Informatique",
+        "Médecine et calcul"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-medicine-data-science",
+      "title": "Médecine et ingénierie des données — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה והנדסת נתונים ומידע",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et ingénierie des données et de l’information. Il ne s’agit pas d’un diplôme de médecin obtenu en cinq ans.",
+      "subjects": [
+        "Sciences médicales",
+        "Ingénierie des données",
+        "Information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/dual-degree-program-in-medicine-and-data-information-engineering/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-cs-artificial-intelligence",
+      "title": "Informatique — option intelligence artificielle",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב במגמת בינה מלאכותית",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. informatique",
+      "duration": "3 ans — parcours support",
+      "language": "Hébreu",
+      "summary": "Une concentration en intelligence artificielle dans le parcours de trois ans en informatique. D’autres cursus informatiques peuvent aussi permettre une attestation si les exigences complémentaires sont remplies.",
+      "subjects": [
+        "Informatique",
+        "Intelligence artificielle",
+        "Mathématiques et algorithmique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Spécialisation du B.Sc. informatique",
+      "note": "Il s’agit d’une option interne du diplôme d’informatique, pas d’une licence autonome intitulée intelligence artificielle.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-cs-cybersecurity",
+      "title": "Informatique — option cybersécurité",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב במגמת סייבר ואבטחת מידע",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. informatique",
+      "duration": "4 ans — parcours support",
+      "language": "Hébreu",
+      "summary": "Une concentration en cybersécurité et sécurité de l’information dans le parcours de quatre ans en informatique. Le diplôme demeure un B.Sc. en informatique.",
+      "subjects": [
+        "Informatique",
+        "Cybersécurité",
+        "Sécurité de l’information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Spécialisation du B.Sc. informatique",
+      "note": "La concentration et ses prérequis se choisissent dans le cursus ; elle ne constitue pas un diplôme autonome.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    }
+  ],
+  "excludedMedicalStage": "BSc sciences médicales3ans est étape du MD6ans, pas nouvelle candidature séparée.",
+  "otherExclusions": [
+    "Anciennes pages anglaises : économie et gestion, mathématiques/statistique-recherche opérationnelle, anciennes variantes maths4ans.",
+    "Ergothérapie absente catalogue actuel Technion ; matériaux/médecine non confirmé pour rentrée actuelle."
+  ],
+  "facultySources": {
+    "Génie civil et environnemental": "https://cee.technion.ac.il/division/undergraduate-programs/",
+    "Génie mécanique": "https://meeng.technion.ac.il/undergraduate-studies-2/",
+    "Génie électrique et informatique": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/",
+    "Génie chimique": "https://chemeng.technion.ac.il/programs-2/",
+    "Biotechnologies et génie alimentaire": "https://biotech.technion.ac.il/לימודי-הסמכה/",
+    "Génie aéronautique et spatial": "https://aerospace.technion.ac.il/studies/ug-studies/ug-curriculum/",
+    "Sciences des données et de la décision": "https://dds.technion.ac.il/he/tracks/bachelors-degree/",
+    "Mathématiques": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+    "Physique": "https://phys.technion.ac.il/he/undergraduatepage/study-tracks",
+    "Chimie": "https://chemistry.technion.ac.il/לימודים/לימוד-לתואר-ראשון/",
+    "Biologie": "https://biology.technion.ac.il/why-biology/",
+    "Architecture et urbanisme": "https://architecture.technion.ac.il/he/לימודים/",
+    "Éducation scientifique et technologique": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+    "Informatique": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+    "Médecine": "https://md.technion.ac.il/קטלוג-תשפז/",
+    "Science et génie des matériaux": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/31-מדע-והנדסה-של-חומרים-תשפז.pdf",
+    "Génie biomédical": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/33-הנדסה-ביו-רפואית-תשפז.pdf"
+  }
+}

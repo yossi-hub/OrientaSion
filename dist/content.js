@@ -1,6 +1,6 @@
 /* Catalogue publié : 55 établissements, dont 53 avec premier cycle.
  * Sources consultées le 24 novembre 2026 ; base de référence conservée dans research/.
- * Les cursus documentés restent un échantillon. Les critères français, tarifs
+ * Le Technion est recensé pour 2026–2027 ; les autres cursus restent un échantillon. Les critères français, tarifs
  * et calendriers doivent être vérifiés pour la rentrée et le cursus visés.
  * Les couleurs et monogrammes sont des repères graphiques, pas des logos officiels.
  */
@@ -40,7 +40,7 @@ window.OS_DATA = {
       "city": "Haïfa",
       "initials": "TEC",
       "color": "#315778",
-      "description": "Université de recherche proposant notamment des premiers cycles en sciences et en ingénierie, ainsi que des études avancées.",
+      "description": "Université de recherche à Haïfa proposant des premiers cycles en ingénierie, sciences, informatique, architecture, médecine et enseignement scientifique et technologique.",
       "url": "https://www.technion.ac.il/en/",
       "hebrew": "הטכניון – מכון טכנולוגי לישראל",
       "aliases": [
@@ -58,6 +58,30 @@ window.OS_DATA = {
       "checkedOn": "2026-11-24",
       "locations": [
         "Haïfa"
+      ],
+      "courseCoverage": {
+        "academicYear": "2026–2027",
+        "checkedOn": "2026-11-25",
+        "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+        "scope": "Recensement de 61 parcours et options nommés de premier cycle, à partir du tableau 2026–2027, des chapitres du catalogue et des pages facultaires. Les variantes de durée et certaines concentrations possèdent une fiche distincte ; ce nombre ne correspond pas à 61 diplômes indépendants ni à autant de choix d’inscription.",
+        "notes": [
+          "Les programmes partagés entre facultés apparaissent une seule fois. Les majeures, doubles cursus et spécialisations sont identifiés dans les fiches. Les options internes ne constituent pas nécessairement une voie d’inscription distincte.",
+          "Le B.Sc. de sciences médicales après trois ans est présenté comme l’étape préclinique du cursus médecine de six ans, sans fiche de candidature autonome. Les trois doubles cursus médicaux prévoient cinq ans pour deux B.Sc., puis une poursuite clinique distincte.",
+          "Le complément d’enseignement après diplôme, les masters, l’ancien B.Arch. de cinq ans et les anciennes lignes économie/gestion ne sont pas comptés comme nouvelles voies post-bac. L’ergothérapie n’est pas confirmée dans le catalogue Technion 2026–2027.",
+          "Les divergences de durée entre sources officielles sont signalées dans les fiches de bioinformatique, informatique–mathématiques et matériaux combinés. La rentrée 2027–2028 devra être vérifiée lorsque son catalogue sera publié."
+        ]
+      },
+      "studyPathways": [
+        {
+          "title": "Commencer la première année en anglais",
+          "text": "Technion International propose une première année en anglais avec apprentissage de l’hébreu, puis une intégration dans certains cursus de sciences ou d’ingénierie enseignés en hébreu. C’est une voie d’entrée vers des diplômes existants ; les cursus participants et les conditions sont à vérifier.",
+          "source": "https://int.technion.ac.il/programs/bsc-in-engineering-1st-year-in-english/"
+        },
+        {
+          "title": "Préparation académique : mechina",
+          "text": "La mechina scientifique est présentée dans la rubrique préparations. Elle ne constitue pas un diplôme de premier cycle et ne garantit pas l’admission au parcours souhaité.",
+          "source": "https://kdam.technion.ac.il/node/275"
+        }
       ]
     },
     {
@@ -1553,36 +1577,1454 @@ window.OS_DATA = {
       "source": "https://economics.huji.ac.il/ba-%D7%91%D7%9B%D7%9C%D7%9B%D7%9C%D7%94"
     },
     {
-      "id": "technion-computer-science",
-      "title": "Informatique — parcours de trois ans",
+      "id": "technion-civil",
+      "title": "Génie civil",
       "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסה אזרחית",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Génie civil généraliste : une base dans les domaines de la construction et des infrastructures, à distinguer des parcours ciblés en structures, transports, eau et gestion de chantier.",
+      "subjects": [
+        "Construction",
+        "Infrastructures",
+        "Ingénierie civile"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-civil-structures",
+      "title": "Génie civil : structures",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסה אזרחית-הנדסת מבנים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de génie civil centré sur les structures et leur conception. Il est recensé séparément du parcours général et des orientations transports, eau et gestion de construction.",
+      "subjects": [
+        "Structures",
+        "Conception des bâtiments",
+        "Mécanique des constructions"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-civil-transport",
+      "title": "Génie civil : transports",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסה אזרחית-הנדסת תחבורה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de génie civil consacré aux transports et à leurs infrastructures. Il fait partie des voies de premier cycle de la faculté de génie civil et environnemental.",
+      "subjects": [
+        "Transports",
+        "Infrastructures de transport",
+        "Génie civil"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-civil-water",
+      "title": "Génie civil : eau",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסה אזרחית-הנדסת מים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de génie civil consacré à l’ingénierie de l’eau. Il se distingue du diplôme de génie de l’environnement, également proposé par la faculté.",
+      "subjects": [
+        "Ingénierie de l’eau",
+        "Systèmes hydrauliques",
+        "Génie civil"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-civil-management",
+      "title": "Génie civil : gestion et construction",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסה אזרחית-ניהול ובנייה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours associant l’ingénierie civile à la gestion de la construction et des projets. Il s’agit d’une voie d’ingénierie et non d’un diplôme général de gestion.",
+      "subjects": [
+        "Construction",
+        "Management de projets",
+        "Ingénierie civile"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-environmental",
+      "title": "Génie de l’environnement",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסת הסביבה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une formation d’ingénieur centrée sur l’environnement, proposée comme parcours distinct du génie civil et de l’orientation génie civil–eau.",
+      "subjects": [
+        "Environnement",
+        "Eau et ressources",
+        "Ingénierie environnementale"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-mapping-engineering",
+      "title": "Génie de la géomatique et géoinformation",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "הנדסת מיפוי וגיאו-אינפורמציה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "La voie ingénieur de quatre ans en cartographie et géoinformation. À comparer au parcours scientifique de trois ans, qui mène à un diplôme différent.",
+      "subjects": [
+        "Cartographie",
+        "Géoinformation",
+        "Mesure et données spatiales"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-mapping-sciences",
+      "title": "Géomatique et géoinformation",
+      "institution": "technion",
+      "faculty": "Génie civil et environnemental",
+      "originalTitle": "מיפוי וגיאו-אינפורמציה",
       "domain": "Sciences & ingénierie",
       "degree": "B.Sc.",
       "duration": "3 ans",
       "language": "Hébreu",
-      "summary": "Le parcours de trois ans est l’une des voies de premier cycle en informatique au Technion. Le catalogue distingue aussi d’autres parcours et combinaisons : leur contenu et leur durée doivent être comparés séparément.",
+      "summary": "Le parcours scientifique de trois ans en cartographie et géoinformation. Le tableau officiel le distingue du cursus d’ingénieur de quatre ans.",
       "subjects": [
-        "Fondements de l’informatique",
-        "Logiciels et systèmes",
-        "Mathématiques et algorithmique"
+        "Cartographie",
+        "Géoinformation",
+        "Données spatiales"
       ],
-      "source": "https://www.cs.technion.ac.il/undergraduate/"
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://cee.technion.ac.il/division/undergraduate-programs/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-mechanical",
+      "title": "Génie mécanique",
+      "institution": "technion",
+      "faculty": "Génie mécanique",
+      "originalTitle": "הנדסת מכונות",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur en mécanique avec des domaines d’approfondissement au sein du diplôme. Les spécialisations internes se choisissent selon le programme de la faculté.",
+      "subjects": [
+        "Mécanique",
+        "Conception et fabrication",
+        "Énergie et systèmes mécaniques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://meeng.technion.ac.il/undergraduate-studies-2/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
     },
     {
       "id": "technion-electrical-engineering",
       "title": "Génie électrique",
       "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת חשמל",
       "domain": "Sciences & ingénierie",
       "degree": "B.Sc.",
       "duration": "4 ans",
       "language": "Hébreu",
-      "summary": "Un cursus structuré autour des sciences fondamentales, des enseignements de génie électrique, puis des spécialisations. La formation comprend des laboratoires et des projets.",
+      "summary": "Formation d’ingénieur en génie électrique, avec des enseignements fondamentaux, des laboratoires et des spécialisations. Les voies génie informatique, informatique et logiciel, et physique sont aussi recensées séparément.",
       "subjects": [
-        "Mathématiques et physique",
-        "Circuits électroniques",
-        "Signaux et systèmes"
+        "Électronique",
+        "Signaux et systèmes",
+        "Mathématiques et physique"
       ],
-      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/electrical-engineering/"
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-computer-engineering",
+      "title": "Génie informatique",
+      "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת מחשבים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Cursus conjoint des facultés de génie électrique et d’informatique, au croisement du matériel et du logiciel. À distinguer du génie logiciel et de la voie informatique et logiciel.",
+      "subjects": [
+        "Matériel informatique",
+        "Logiciel",
+        "Systèmes informatiques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-computer-software",
+      "title": "Génie informatique et logiciel",
+      "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת מחשבים ותוכנה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Voie de la faculté de génie électrique et informatique associant systèmes informatiques et logiciel. Elle est distincte du diplôme de génie logiciel porté par la faculté d’informatique.",
+      "subjects": [
+        "Systèmes informatiques",
+        "Logiciel",
+        "Génie électrique et informatique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-electrical-physics",
+      "title": "Génie électrique et physique",
+      "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת חשמל ופיזיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combinant génie électrique et physique, avec son propre programme d’études. Il ne faut pas le confondre avec une simple option de physique du cursus général.",
+      "subjects": [
+        "Génie électrique",
+        "Physique",
+        "Systèmes et électronique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-chemical",
+      "title": "Génie chimique",
+      "institution": "technion",
+      "faculty": "Génie chimique",
+      "originalTitle": "הנדסה כימית",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur en génie chimique. La faculté propose aussi une voie de génie biochimique, identifiée comme parcours distinct dans le catalogue.",
+      "subjects": [
+        "Génie chimique",
+        "Procédés",
+        "Chimie et ingénierie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://chemeng.technion.ac.il/programs-2/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-biochemical",
+      "title": "Génie biochimique",
+      "institution": "technion",
+      "faculty": "Génie chimique",
+      "originalTitle": "הנדסה ביוכימית",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur associant génie chimique et sciences biologiques. La collaboration entre facultés est représentée par une seule fiche pour ce même parcours.",
+      "subjects": [
+        "Génie biochimique",
+        "Biologie",
+        "Procédés chimiques et biologiques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://chemeng.technion.ac.il/programs-2/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-biotechnology-food",
+      "title": "Génie des biotechnologies et de l’alimentation",
+      "institution": "technion",
+      "faculty": "Biotechnologies et génie alimentaire",
+      "originalTitle": "הנדסת ביוטכנולוגיה ומזון",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Un diplôme d’ingénieur associant biotechnologies et ingénierie alimentaire. Ces deux composantes appartiennent à un même parcours de premier cycle.",
+      "subjects": [
+        "Biotechnologies",
+        "Génie alimentaire",
+        "Procédés biologiques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://biotech.technion.ac.il/לימודי-הסמכה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-aerospace",
+      "title": "Génie aéronautique et spatial",
+      "institution": "technion",
+      "faculty": "Génie aéronautique et spatial",
+      "originalTitle": "הנדסת אוירונוטיקה וחלל",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur aéronautique et spatial. Les approfondissements en aérodynamique, propulsion, structures, spatial et systèmes restent des options internes du diplôme.",
+      "subjects": [
+        "Aéronautique",
+        "Ingénierie spatiale",
+        "Propulsion, structures et systèmes"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://aerospace.technion.ac.il/studies/ug-studies/ug-curriculum/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Aérodynamique, propulsion, structures, spatial, guidage et systèmes",
+          "text": "Groupes d’approfondissement internes du cursus, à choisir selon les règles de la faculté.",
+          "source": "https://aerospace.technion.ac.il/studies/ug-studies/ug-curriculum/"
+        }
+      ]
+    },
+    {
+      "id": "technion-aerospace-physics",
+      "title": "Génie aéronautique et spatial et physique",
+      "institution": "technion",
+      "faculty": "Génie aéronautique et spatial",
+      "originalTitle": "הנדסת אוירונוטיקה וחלל ובפיזיקה במתכונת דו-חוגית",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combiné en aéronautique, spatial et physique. Il est partagé entre facultés mais apparaît ici une seule fois, conformément au dédoublonnage du recensement.",
+      "subjects": [
+        "Génie aéronautique et spatial",
+        "Physique",
+        "Sciences de l’ingénieur"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://aerospace.technion.ac.il/studies/ug-studies/ug-curriculum/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-industrial-management",
+      "title": "Génie industriel et management",
+      "institution": "technion",
+      "faculty": "Sciences des données et de la décision",
+      "originalTitle": "הנדסת תעשיה וניהול",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur associant systèmes industriels et management. La faculté distingue ce parcours de ses diplômes en systèmes d’information et en ingénierie des données.",
+      "subjects": [
+        "Systèmes industriels",
+        "Management",
+        "Méthodes quantitatives"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Spécialisation science des données",
+          "source": "https://dds.technion.ac.il/he/tracks/minors/data-science-specialization-in-industrial-engineering/"
+        }
+      ]
+    },
+    {
+      "id": "technion-information-systems",
+      "title": "Génie des systèmes d’information",
+      "institution": "technion",
+      "faculty": "Sciences des données et de la décision",
+      "originalTitle": "הנדסת מערכות מידע",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Un diplôme d’ingénieur centré sur les systèmes d’information. Il est recensé séparément de l’ingénierie des données et de l’information, proposée par la même faculté.",
+      "subjects": [
+        "Systèmes d’information",
+        "Informatique",
+        "Organisation et données"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-data-information",
+      "title": "Ingénierie des données et de l’information",
+      "institution": "technion",
+      "faculty": "Sciences des données et de la décision",
+      "originalTitle": "הנדסת נתונים ומידע",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur consacrée aux données et à l’information. Un programme conjoint avec les mathématiques et un double cursus avec la médecine sont également proposés.",
+      "subjects": [
+        "Ingénierie des données",
+        "Information",
+        "Mathématiques et informatique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Cognition",
+          "source": "https://dds.technion.ac.il/he/tracks/minors/cognition/"
+        },
+        {
+          "title": "Analyse mathématique",
+          "source": "https://dds.technion.ac.il/he/tracks/minors/mathematical-analysis-for-data-science-track/"
+        }
+      ]
+    },
+    {
+      "id": "technion-mathematics",
+      "title": "Mathématiques",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה (תלת-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Le parcours de trois ans en mathématiques est l’une des voies du catalogue actuel. Les mathématiques appliquées et les combinaisons avec l’informatique ou la physique sont distinguées.",
+      "subjects": [
+        "Mathématiques",
+        "Analyse",
+        "Algèbre et raisonnement"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-applied-mathematics",
+      "title": "Mathématiques appliquées",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה יישומית (תלת-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Un parcours de trois ans en mathématiques appliquées, avec plusieurs concentrations internes. La variante renforcée en génie électrique et informatique dure quatre ans et possède sa propre fiche.",
+      "subjects": [
+        "Mathématiques appliquées",
+        "Modélisation",
+        "Méthodes computationnelles"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Intelligence artificielle et traitement du signal",
+          "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=178"
+        },
+        {
+          "title": "Recherche opérationnelle, optimisation et commande des systèmes",
+          "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=178"
+        },
+        {
+          "title": "Modélisation, méthodes computationnelles et statistique",
+          "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=178"
+        },
+        {
+          "title": "Méthodes mathématiques pour l’industrie, l’économie et la finance",
+          "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=178"
+        }
+      ]
+    },
+    {
+      "id": "technion-math-cs-4",
+      "title": "Mathématiques avec informatique — parcours de quatre ans",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה עם מדעי המחשב (ארבע-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "La formule de quatre ans en mathématiques avec informatique. Elle est distincte de la formule de trois ans et du programme conjoint informatique et mathématiques.",
+      "subjects": [
+        "Mathématiques",
+        "Informatique",
+        "Méthodes théoriques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-math-cs-3",
+      "title": "Mathématiques avec informatique — parcours de trois ans",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה עם מדעי המחשב (תלת-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "La formule de trois ans en mathématiques avec informatique. Le catalogue propose aussi une formule de quatre ans, avec un programme et des exigences à comparer.",
+      "subjects": [
+        "Mathématiques",
+        "Informatique",
+        "Méthodes théoriques"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-math-physics",
+      "title": "Mathématiques et physique",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה-פיזיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Un premier cycle combinant mathématiques et physique. Sa présence dans les deux facultés ne correspond pas à deux possibilités d’études différentes.",
+      "subjects": [
+        "Mathématiques",
+        "Physique",
+        "Méthodes mathématiques pour les sciences"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=174",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-cs-mathematics",
+      "title": "Informatique et mathématiques",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב ומתמטיקה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "3,5 ans",
+      "language": "Hébreu",
+      "summary": "Un programme conjoint en informatique et mathématiques. Il se distingue des parcours de mathématiques avec informatique et de leurs variantes de trois ou quatre ans.",
+      "subjects": [
+        "Informatique",
+        "Mathématiques",
+        "Algorithmique et théorie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "note": "Le tableau central et le plan sur sept semestres correspondent à 3,5 ans ; un texte introductif du catalogue mentionne trois ans. La durée applicable au dossier doit être confirmée auprès de la faculté.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-physics-3",
+      "title": "Physique — parcours de trois ans",
+      "institution": "technion",
+      "faculty": "Physique",
+      "originalTitle": "פיזיקה (תלת-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "La formule de trois ans du premier cycle de physique. À comparer avec la formule de quatre ans et les programmes combinant physique et une autre discipline.",
+      "subjects": [
+        "Physique",
+        "Mathématiques",
+        "Méthodes expérimentales"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://phys.technion.ac.il/he/undergraduatepage/study-tracks",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-physics-4",
+      "title": "Physique — parcours de quatre ans",
+      "institution": "technion",
+      "faculty": "Physique",
+      "originalTitle": "פיזיקה (ארבע-שנתי)",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "La formule de quatre ans du premier cycle de physique. Elle est recensée séparément de la formule de trois ans dans le tableau officiel.",
+      "subjects": [
+        "Physique",
+        "Mathématiques",
+        "Méthodes expérimentales"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://phys.technion.ac.il/he/undergraduatepage/study-tracks",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-biomedical-physics",
+      "title": "Génie biomédical et physique",
+      "institution": "technion",
+      "faculty": "Génie biomédical",
+      "originalTitle": "הנדסה ביו-רפואית ופיזיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combinant génie biomédical et physique. Il figure dans les deux facultés, mais représente un seul choix de parcours dans ce catalogue.",
+      "subjects": [
+        "Génie biomédical",
+        "Physique",
+        "Sciences et technologies médicales"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/33-הנדסה-ביו-רפואית-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-cs-physics",
+      "title": "Informatique et physique",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב ופיזיקה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Un programme conjoint en informatique et physique, distinct des cursus simples de ces disciplines. Le programme détaillé est présenté par la faculté d’informatique.",
+      "subjects": [
+        "Informatique",
+        "Physique",
+        "Mathématiques et calcul"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-materials-physics",
+      "title": "Génie des matériaux et physique",
+      "institution": "technion",
+      "faculty": "Science et génie des matériaux",
+      "originalTitle": "הנדסת חומרים ופיזיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combiné en génie des matériaux et physique. Le catalogue 2026–2027 présente un plan de huit semestres ; certaines pages facultaires conservent une durée différente.",
+      "subjects": [
+        "Matériaux",
+        "Physique",
+        "Structure et propriétés de la matière"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/31-מדע-והנדסה-של-חומרים-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "note": "Durée de quatre ans et plan sur huit semestres dans le catalogue 2026–2027. Certaines pages facultaires indiquent encore 4,5 ans pour les parcours combinés ; vérifier le régime applicable à la rentrée visée."
+    },
+    {
+      "id": "technion-chemistry",
+      "title": "Chimie",
+      "institution": "technion",
+      "faculty": "Chimie",
+      "originalTitle": "כימיה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Le premier cycle de chimie en trois ans. La combinaison biologie–chimie et celle associant génie des matériaux et chimie sont recensées séparément.",
+      "subjects": [
+        "Chimie",
+        "Sciences moléculaires",
+        "Méthodes expérimentales"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://chemistry.technion.ac.il/לימודים/לימוד-לתואר-ראשון/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-biology-chemistry",
+      "title": "Biologie et chimie",
+      "institution": "technion",
+      "faculty": "Chimie",
+      "originalTitle": "דו חוגי בביולוגיה וכימיה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Un parcours à deux disciplines en biologie et chimie. L’ancienne appellation de biochimie moléculaire apparaît encore sur certaines pages et ne constitue pas une fiche supplémentaire.",
+      "subjects": [
+        "Biologie",
+        "Chimie",
+        "Sciences moléculaires"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://chemistry.technion.ac.il/לימודים/לימוד-לתואר-ראשון/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-materials-chemistry",
+      "title": "Génie des matériaux et chimie",
+      "institution": "technion",
+      "faculty": "Science et génie des matériaux",
+      "originalTitle": "הנדסת חומרים וכימיה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combiné en génie des matériaux et chimie. Son plan actuel se trouve dans le catalogue détaillé de la faculté des matériaux.",
+      "subjects": [
+        "Génie des matériaux",
+        "Chimie",
+        "Structure et propriétés de la matière"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/31-מדע-והנדסה-של-חומרים-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "note": "Durée de quatre ans et plan sur huit semestres dans le catalogue 2026–2027. Certaines pages facultaires indiquent encore 4,5 ans pour les parcours combinés ; vérifier le régime applicable à la rentrée visée."
+    },
+    {
+      "id": "technion-biology",
+      "title": "Biologie",
+      "institution": "technion",
+      "faculty": "Biologie",
+      "originalTitle": "ביולוגיה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "Le parcours de premier cycle en biologie. Les orientations de recherche restent internes au diplôme ; les combinaisons avec la chimie et les autres facultés sont identifiées séparément.",
+      "subjects": [
+        "Biologie",
+        "Sciences du vivant",
+        "Méthodes de recherche"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://biology.technion.ac.il/why-biology/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-architecture-sciences",
+      "title": "Sciences de l’architecture",
+      "institution": "technion",
+      "faculty": "Architecture et urbanisme",
+      "originalTitle": "ארכיטקטורה",
+      "domain": "Architecture & paysage",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Premier cycle de quatre ans en sciences de l’architecture. Ce diplôme n’est pas, à lui seul, le diplôme professionnel d’architecte ; la voie professionnelle actuelle prévoit une poursuite en M.Arch.",
+      "subjects": [
+        "Architecture",
+        "Conception architecturale",
+        "Sciences de l’architecture"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://architecture.technion.ac.il/he/לימודים/ארכיטקטורה/מגיסטר-לארכיטקטורה-ובינוי-ערים-1-m-arch/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "note": "Le parcours actuel comprend un B.Sc. de quatre ans, puis un M.Arch. professionnel de deux ans sous conditions. L’ancien B.Arch. de cinq ans encore présent dans le tableau central n’est pas présenté ici comme une nouvelle voie d’entrée."
+    },
+    {
+      "id": "technion-landscape-architecture",
+      "title": "Architecture paysagère",
+      "institution": "technion",
+      "faculty": "Architecture et urbanisme",
+      "originalTitle": "אדריכלות נוף",
+      "domain": "Architecture & paysage",
+      "degree": "B.L.A.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une formation de premier cycle en architecture paysagère, distincte des sciences de l’architecture et de la poursuite professionnelle en architecture.",
+      "subjects": [
+        "Architecture paysagère",
+        "Paysage",
+        "Conception et environnement"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://architecture.technion.ac.il/he/לימודים/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-education-math",
+      "title": "Enseignement des mathématiques",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת המתמטיקה",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant mathématiques et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Mathématiques",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-physics",
+      "title": "Enseignement de la physique",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת הפיזיקה",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant physique et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Physique",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-chemistry",
+      "title": "Enseignement de la chimie",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת הכימיה",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant chimie et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Chimie",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-biology",
+      "title": "Enseignement de la biologie et des sciences de l’environnement",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת הביולוגיה ומדעי הסביבה",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant biologie et des sciences de l’environnement et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Biologie et des sciences de l’environnement",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-cs",
+      "title": "Enseignement de l’informatique",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת מדעי המחשב",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant informatique et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Informatique",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-mechanics",
+      "title": "Enseignement de la technologie et de la mécanique",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת טכנולוגיה-מכונות",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant technologie et de la mécanique et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Technologie et de la mécanique",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-education-electronics",
+      "title": "Enseignement de l’électronique et de l’électricité",
+      "institution": "technion",
+      "faculty": "Éducation scientifique et technologique",
+      "originalTitle": "הוראת אלקטרוניקה-חשמל",
+      "domain": "Enseignement",
+      "degree": "B.Sc.Ed.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours de premier cycle associant électronique et de l’électricité et formation à l’enseignement. Il est distinct du complément Mabatim destiné aux personnes déjà engagées dans des études supérieures ou diplômées.",
+      "subjects": [
+        "Électronique et de l’électricité",
+        "Éducation scientifique et technologique",
+        "Pédagogie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://edu.technion.ac.il/מידע-לסטודנטים/תואר-ראשון-ותעודת-הוראה/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Option du B.Sc.Ed."
+    },
+    {
+      "id": "technion-computer-science",
+      "title": "Informatique — parcours de trois ans",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב (תלת-שנתי)",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "3 ans",
+      "language": "Hébreu",
+      "summary": "La formule de trois ans en informatique. La faculté décrit aussi les options intelligence artificielle et bioinformatique ; ces options ne sont pas des diplômes indépendants.",
+      "subjects": [
+        "Fondements de l’informatique",
+        "Logiciels et systèmes",
+        "Mathématiques et algorithmique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-cs-4",
+      "title": "Informatique — parcours de quatre ans",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב (ארבע-שנתי)",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "La formule de quatre ans en informatique. Elle se distingue de la formule de trois ans et du diplôme de génie logiciel, également proposé en quatre ans.",
+      "subjects": [
+        "Fondements de l’informatique",
+        "Logiciels et systèmes",
+        "Mathématiques et algorithmique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-cs-bioinformatics",
+      "title": "Informatique, spécialisation bioinformatique",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב עם התמקדות בביואינפורמטיקה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "3 ans selon la faculté",
+      "language": "Hébreu",
+      "summary": "Une spécialisation en bioinformatique au sein du diplôme d’informatique. Le programme détaillé de la faculté la place dans le parcours de trois ans.",
+      "subjects": [
+        "Informatique",
+        "Bioinformatique",
+        "Biologie et calcul"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/wp-content/uploads/2026/07/המגמה-לביו-אינפורמטיקה-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Spécialisation du B.Sc. informatique",
+      "note": "La fiche facultaire 2026–2027 décrit 124 crédits sur six semestres, au sein du parcours de trois ans. Le tableau central indique encore quatre ans : cette divergence doit être confirmée pour la rentrée choisie.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-software-engineering",
+      "title": "Génie logiciel",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "הנדסת תוכנה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Un diplôme de génie logiciel de quatre ans, proposé par la faculté d’informatique. Il est distinct de la voie informatique et logiciel de la faculté de génie électrique.",
+      "subjects": [
+        "Génie logiciel",
+        "Informatique",
+        "Conception de systèmes logiciels"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-medicine",
+      "title": "Médecine",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה",
+      "domain": "Santé",
+      "degree": "M.D.",
+      "duration": "6 ans",
+      "language": "Hébreu",
+      "summary": "Le cursus médical comprend trois années précliniques, avec un B.Sc. en sciences médicales, puis trois années cliniques. Le stage professionnel intervient ensuite selon les règles applicables.",
+      "subjects": [
+        "Sciences médicales",
+        "Formation préclinique",
+        "Formation clinique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://md.technion.ac.il/קטלוג-תשפז/",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-materials",
+      "title": "Génie des matériaux",
+      "institution": "technion",
+      "faculty": "Science et génie des matériaux",
+      "originalTitle": "הנדסת חומרים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur en matériaux. Le catalogue actuel distingue aussi trois parcours combinés : matériaux et physique, matériaux et chimie, matériaux et biologie.",
+      "subjects": [
+        "Matériaux",
+        "Structure et propriétés",
+        "Sciences et génie des matériaux"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/31-מדע-והנדסה-של-חומרים-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-materials-biology",
+      "title": "Génie des matériaux et biologie",
+      "institution": "technion",
+      "faculty": "Science et génie des matériaux",
+      "originalTitle": "הנדסת חומרים וביולוגיה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Parcours combiné en génie des matériaux et biologie. Le catalogue 2026–2027 présente un programme sur huit semestres.",
+      "subjects": [
+        "Génie des matériaux",
+        "Biologie",
+        "Sciences de la matière et du vivant"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/31-מדע-והנדסה-של-חומרים-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines",
+      "note": "Durée de quatre ans et plan sur huit semestres dans le catalogue 2026–2027. Certaines pages facultaires indiquent encore 4,5 ans pour les parcours combinés ; vérifier le régime applicable à la rentrée visée."
+    },
+    {
+      "id": "technion-biomedical",
+      "title": "Génie biomédical",
+      "institution": "technion",
+      "faculty": "Génie biomédical",
+      "originalTitle": "הנדסה ביו-רפואית",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc.",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Formation d’ingénieur en génie biomédical. La faculté distingue le parcours simple, le combiné avec physique et le double cursus avec sciences médicales.",
+      "subjects": [
+        "Génie biomédical",
+        "Technologies médicales",
+        "Sciences du vivant et ingénierie"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/33-הנדסה-ביו-רפואית-תשפז.pdf",
+      "catalogueSource": "https://ugportal.technion.ac.il/wp-content/uploads/2026/11/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%A8%D7%A9%D7%9E%D7%94-%D7%95%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%93-202627.pdf",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours de premier cycle"
+    },
+    {
+      "id": "technion-electrical-mathematics",
+      "title": "Génie électrique — concentration mathématiques",
+      "institution": "technion",
+      "faculty": "Génie électrique et informatique",
+      "originalTitle": "הנדסת חשמל ומתמטיקה",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc. génie électrique",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une voie du diplôme de génie électrique avec concentration en mathématiques. Elle conduit à un B.Sc. en génie électrique et à une attestation de concentration, sans second B.Sc. de mathématiques.",
+      "subjects": [
+        "Génie électrique",
+        "Mathématiques",
+        "Sciences de l’ingénieur"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ece.technion.ac.il/degree-studies-programs/undergraduate-studies/study-programs-courses/electrical-engineering-mathematics-program/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Concentration du B.Sc. génie électrique"
+    },
+    {
+      "id": "technion-applied-math-electrical",
+      "title": "Mathématiques appliquées — concentration génie électrique et informatique",
+      "institution": "technion",
+      "faculty": "Mathématiques",
+      "originalTitle": "מתמטיקה שימושית במגמת הנדסת חשמל ומחשבים",
+      "domain": "Sciences & ingénierie",
+      "degree": "B.Sc. mathématiques appliquées",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Une voie de mathématiques appliquées avec concentration en génie électrique et informatique. À distinguer du diplôme de génie électrique avec concentration mathématiques.",
+      "subjects": [
+        "Mathématiques appliquées",
+        "Génie électrique",
+        "Informatique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://ugportal.technion.ac.il/wp-content/uploads/2026/10/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%9C%D7%99%D7%9E%D7%95%D7%93%D7%99%D7%9D-%D7%AA%D7%A9%D7%A4%D7%96-2026.2027.pdf#page=182",
+      "checkedOn": "2026-11-25",
+      "optionType": "Concentration du B.Sc. mathématiques appliquées",
+      "note": "Le catalogue décrit un programme de 157 crédits et une admission annuelle au semestre d’hiver. L’attestation de concentration accompagne le B.Sc. de mathématiques appliquées."
+    },
+    {
+      "id": "technion-data-mathematics",
+      "title": "Ingénierie des données et de l’information et mathématiques",
+      "institution": "technion",
+      "faculty": "Sciences des données et de la décision",
+      "originalTitle": "הנדסת נתונים ומידע ומתמטיקה",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. — programme conjoint",
+      "duration": "4 ans",
+      "language": "Hébreu",
+      "summary": "Programme conjoint associant ingénierie des données et mathématiques, distinct du diplôme simple d’ingénierie des données et de l’information.",
+      "subjects": [
+        "Ingénierie des données",
+        "Mathématiques",
+        "Information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/data-and-information-engineering-and-mathematics/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Parcours combiné entre disciplines"
+    },
+    {
+      "id": "technion-medicine-biomedical",
+      "title": "Médecine et génie biomédical — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה והנדסה ביו-רפואית",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et génie biomédical. La phase conduisant aux deux premiers diplômes est distincte de la formation clinique ultérieure du médecin.",
+      "subjects": [
+        "Sciences médicales",
+        "Génie biomédical",
+        "Sciences du vivant et technologies"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://md.technion.ac.il/קטלוג-תשפז/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-medicine-computer-science",
+      "title": "Médecine et informatique — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה ומדעי המחשב",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et informatique. Il est destiné aux étudiants admis dans la voie médicale et soumis aux règles propres du programme conjoint.",
+      "subjects": [
+        "Sciences médicales",
+        "Informatique",
+        "Médecine et calcul"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-medicine-data-science",
+      "title": "Médecine et ingénierie des données — double cursus",
+      "institution": "technion",
+      "faculty": "Médecine",
+      "originalTitle": "רפואה והנדסת נתונים ומידע",
+      "domain": "Santé",
+      "degree": "Deux B.Sc. ; poursuite possible vers M.D.",
+      "duration": "5 ans pour les deux B.Sc.",
+      "language": "Hébreu",
+      "summary": "Double cursus associant sciences médicales et ingénierie des données et de l’information. Il ne s’agit pas d’un diplôme de médecin obtenu en cinq ans.",
+      "subjects": [
+        "Sciences médicales",
+        "Ingénierie des données",
+        "Information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://dds.technion.ac.il/he/tracks/bachelors-degree/dual-degree-program-in-medicine-and-data-information-engineering/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Double cursus avec sélection spécifique",
+      "note": "Les cinq premières années conduisent aux deux B.Sc., pas au diplôme de médecin. La poursuite vers le M.D. prévoit ensuite trois années cliniques sous conditions, puis le stage professionnel selon la réglementation. La sélection propre au double cursus doit être vérifiée."
+    },
+    {
+      "id": "technion-cs-artificial-intelligence",
+      "title": "Informatique — option intelligence artificielle",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב במגמת בינה מלאכותית",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. informatique",
+      "duration": "3 ans — parcours support",
+      "language": "Hébreu",
+      "summary": "Une concentration en intelligence artificielle dans le parcours de trois ans en informatique. D’autres cursus informatiques peuvent aussi permettre une attestation si les exigences complémentaires sont remplies.",
+      "subjects": [
+        "Informatique",
+        "Intelligence artificielle",
+        "Mathématiques et algorithmique"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Spécialisation du B.Sc. informatique",
+      "note": "Il s’agit d’une option interne du diplôme d’informatique, pas d’une licence autonome intitulée intelligence artificielle.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
+    },
+    {
+      "id": "technion-cs-cybersecurity",
+      "title": "Informatique — option cybersécurité",
+      "institution": "technion",
+      "faculty": "Informatique",
+      "originalTitle": "מדעי המחשב במגמת סייבר ואבטחת מידע",
+      "domain": "Informatique & données",
+      "degree": "B.Sc. informatique",
+      "duration": "4 ans — parcours support",
+      "language": "Hébreu",
+      "summary": "Une concentration en cybersécurité et sécurité de l’information dans le parcours de quatre ans en informatique. Le diplôme demeure un B.Sc. en informatique.",
+      "subjects": [
+        "Informatique",
+        "Cybersécurité",
+        "Sécurité de l’information"
+      ],
+      "subjectsLabel": "Domaines du parcours",
+      "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/",
+      "checkedOn": "2026-11-25",
+      "optionType": "Spécialisation du B.Sc. informatique",
+      "note": "La concentration et ses prérequis se choisissent dans le cursus ; elle ne constitue pas un diplôme autonome.",
+      "options": [
+        {
+          "title": "Mineure de calcul quantique",
+          "text": "Option complémentaire accessible selon les règles des différents cursus d’informatique, y compris certains parcours conjoints.",
+          "source": "https://undergraduate.cs.technion.ac.il/undergraduate-studies/programs/paths/"
+        }
+      ]
     },
     {
       "id": "tau-psychology",
