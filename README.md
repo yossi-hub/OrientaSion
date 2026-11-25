@@ -62,3 +62,5 @@ Le B.Sc. de sciences médicales de trois ans est décrit comme une étape du par
 Les divergences officielles sur bioinformatique, informatique/mathématiques et certains combinés matériaux sont affichées dans les fiches. La première année internationale en anglais, suivie d’une intégration dans certains cursus en hébreu, et la mechina sont décrites comme voies d’entrée ou préparations. Les admissions françaises ne sont pas extrapolées. L’audit de couverture, les exclusions et les sources sont conservés dans `research/technion-2026-2027.json`.
 
 Lien local direct : `http://127.0.0.1:4173/#explorer?institution=technion`.
+
+Le logo officiel CNEF fourni est conservé sans modification dans `dist/assets/cnef-logo.webp` et affiché avec ses proportions d’origine dans la navigation, l’en-tête mobile et la signature de l’accueil.
